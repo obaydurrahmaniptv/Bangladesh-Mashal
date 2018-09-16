@@ -1,0 +1,2421 @@
+#EXTM3U
+#EXTINF:-1,US CBS Sports
+http://188.93.238.184:8000/live/snet/snet/37815.ts
+#EXTINF:-1,US FOX SPORTS 1 HD
+http://188.93.238.184:8000/live/snet/snet/37800.ts
+#EXTINF:-1,US FOX SPORTS 2 HD
+http://188.93.238.184:8000/live/snet/snet/37811.ts
+#EXTINF:-1,US Sports Net Ontario HD
+http://188.93.238.184:8000/live/snet/snet/37814.ts
+#EXTINF:-1,US Sports Net World HD
+http://188.93.238.184:8000/live/snet/snet/37812.ts
+#EXTINF:-1,USA TSN 1HD
+http://188.93.238.184:8000/live/snet/snet/37793.ts
+#EXTINF:-1,USA TSN 2HD
+http://188.93.238.184:8000/live/snet/snet/37792.ts
+#EXTINF:-1,USA TSN 3HD
+http://188.93.238.184:8000/live/snet/snet/37795.ts
+#EXTINF:-1,USA TSN 4HD
+http://188.93.238.184:8000/live/snet/snet/37790.ts
+#EXTINF:-1,USA TSN 5HD
+http://188.93.238.184:8000/live/snet/snet/37791.ts
+#EXTINF:-1,UK@ Sky One HD
+http://188.93.238.184:8000/live/snet/snet/11349.ts
+#EXTINF:-1,UK@ Sky 1 (Backup)
+http://188.93.238.184:8000/live/snet/snet/27675.ts
+#EXTINF:-1,UK@ Sky Living HD
+http://188.93.238.184:8000/live/snet/snet/8143.ts
+#EXTINF:-1,UK@ Sky Living (Backup)
+http://188.93.238.184:8000/live/snet/snet/37337.ts
+#EXTINF:-1,UK@ Fine Living
+http://188.93.238.184:8000/live/snet/snet/37338.ts
+#EXTINF:-1,UK@ Sky Atlantic HD
+http://188.93.238.184:8000/live/snet/snet/8144.ts
+#EXTINF:-1,UK@ Sky Atlantic (Backup)
+http://188.93.238.184:8000/live/snet/snet/27098.ts
+#EXTINF:-1,UK@ W HD.
+http://188.93.238.184:8000/live/snet/snet/8145.ts
+#EXTINF:-1,UK@ Gold
+http://188.93.238.184:8000/live/snet/snet/36517.ts
+#EXTINF:-1,UK@ Gold (Backup)
+http://188.93.238.184:8000/live/snet/snet/27674.ts
+#EXTINF:-1,UK@ Dave HD
+http://188.93.238.184:8000/live/snet/snet/31974.ts
+#EXTINF:-1,UK@ Dave (Backup)
+http://188.93.238.184:8000/live/snet/snet/37383.ts
+#EXTINF:-1,UK@ Comedy Central HD
+http://188.93.238.184:8000/live/snet/snet/8148.ts
+#EXTINF:-1,UK@ MTV HD
+http://188.93.238.184:8000/live/snet/snet/8161.ts
+#EXTINF:-1,UK@ MTV  (Backup)
+http://188.93.238.184:8000/live/snet/snet/27679.ts
+#EXTINF:-1,UK@ Comedy Central (Backup)
+http://188.93.238.184:8000/live/snet/snet/29483.ts
+#EXTINF:-1,UK@ Universal HD
+http://188.93.238.184:8000/live/snet/snet/37160.ts
+#EXTINF:-1,UK@ Universal (Backup)
+http://188.93.238.184:8000/live/snet/snet/29476.ts
+#EXTINF:-1,UK@ Alibi HD
+http://188.93.238.184:8000/live/snet/snet/37167.ts
+#EXTINF:-1,UK@ Alibi  (Backup)
+http://188.93.238.184:8000/live/snet/snet/37384.ts
+#EXTINF:-1,UK@ Syfy HD
+http://188.93.238.184:8000/live/snet/snet/8150.ts
+#EXTINF:-1,UK@ Syfy (Backup)
+http://188.93.238.184:8000/live/snet/snet/37390.ts
+#EXTINF:-1,UK@ ITV2 HD
+http://188.93.238.184:8000/live/snet/snet/8153.ts
+#EXTINF:-1,UK@ ITV 2 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37340.ts
+#EXTINF:-1,UK@ ITV3 HD
+http://188.93.238.184:8000/live/snet/snet/8154.ts
+#EXTINF:-1,UK@ ITV 3 HD
+http://188.93.238.184:8000/live/snet/snet/37345.ts
+#EXTINF:-1,UK@ ITV 3 (backup)
+http://188.93.238.184:8000/live/snet/snet/37341.ts
+#EXTINF:-1,UK@ ITV 4 HD
+http://188.93.238.184:8000/live/snet/snet/8155.ts
+#EXTINF:-1,UK@ ITV 4
+http://188.93.238.184:8000/live/snet/snet/11346.ts
+#EXTINF:-1,UK@ ITV 4 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37342.ts
+#EXTINF:-1,UK@ Sky Arts HD
+http://188.93.238.184:8000/live/snet/snet/8156.ts
+#EXTINF:-1,UK@ Sky Arts (Backup)
+http://188.93.238.184:8000/live/snet/snet/37392.ts
+#EXTINF:-1,UK@ ITV Be HD
+http://188.93.238.184:8000/live/snet/snet/37412.ts
+#EXTINF:-1,UK@ FOX HD
+http://188.93.238.184:8000/live/snet/snet/19632.ts
+#EXTINF:-1,UK@ FOX (Backup)
+http://188.93.238.184:8000/live/snet/snet/37399.ts
+#EXTINF:-1,UK@ TLC HD
+http://188.93.238.184:8000/live/snet/snet/8160.ts
+#EXTINF:-1,UK@ TLC (BaCKUP)
+http://188.93.238.184:8000/live/snet/snet/37404.ts
+#EXTINF:-1,UK@ Good Food.
+http://188.93.238.184:8000/live/snet/snet/8168.ts
+#EXTINF:-1,UK@ E4 HD.
+http://188.93.238.184:8000/live/snet/snet/8170.ts
+#EXTINF:-1,UK@ E4 HD
+http://188.93.238.184:8000/live/snet/snet/27704.ts
+#EXTINF:-1,UK@ BBC Four HD
+http://188.93.238.184:8000/live/snet/snet/8152.ts
+#EXTINF:-1,UK@ Challenge
+http://188.93.238.184:8000/live/snet/snet/21112.ts
+#EXTINF:-1,UK@ CBS Reality
+http://188.93.238.184:8000/live/snet/snet/9004.ts
+#EXTINF:-1,UK@ CBS Reality (Backup)
+http://188.93.238.184:8000/live/snet/snet/29512.ts
+#EXTINF:-1,UK@ CBS Action
+http://188.93.238.184:8000/live/snet/snet/9225.ts
+#EXTINF:-1,UK@ CBS Action (Backup)
+http://188.93.238.184:8000/live/snet/snet/29513.ts
+#EXTINF:-1,UK@ CBS Drama
+http://188.93.238.184:8000/live/snet/snet/9226.ts
+#EXTINF:-1,UK@ CBS Drama (Backup)
+http://188.93.238.184:8000/live/snet/snet/29511.ts
+#EXTINF:-1,UK@ 4 SEVEN HD
+http://188.93.238.184:8000/live/snet/snet/37163.ts
+#EXTINF:-1,UK@ EI HD
+http://188.93.238.184:8000/live/snet/snet/9228.ts
+#EXTINF:-1,UK@ DMAX
+http://188.93.238.184:8000/live/snet/snet/33890.ts
+#EXTINF:-1,UK@ PicK tv
+http://188.93.238.184:8000/live/snet/snet/9229.ts
+#EXTINF:-1,UK@ PicK tv (Backup)
+http://188.93.238.184:8000/live/snet/snet/29514.ts
+#EXTINF:-1,UK@ BBC Entertainment
+http://188.93.238.184:8000/live/snet/snet/32935.ts
+#EXTINF:-1,UK@ Really
+http://188.93.238.184:8000/live/snet/snet/9232.ts
+#EXTINF:-1,UK@ Lifetime HD
+http://188.93.238.184:8000/live/snet/snet/9233.ts
+#EXTINF:-1,UK@ Really (Backup)
+http://188.93.238.184:8000/live/snet/snet/37422.ts
+#EXTINF:-1,UK@ Sony Channel
+http://188.93.238.184:8000/live/snet/snet/9234.ts
+#EXTINF:-1,UK@ Drama
+http://188.93.238.184:8000/live/snet/snet/9235.ts
+#EXTINF:-1,UK@ 5 USA
+http://188.93.238.184:8000/live/snet/snet/37156.ts
+#EXTINF:-1,UK@ 5Spike
+http://188.93.238.184:8000/live/snet/snet/9237.ts
+#EXTINF:-1,UK@ 5 Spike (Backup)
+http://188.93.238.184:8000/live/snet/snet/37420.ts
+#EXTINF:-1,UK@ Discovery Shed
+http://188.93.238.184:8000/live/snet/snet/9238.ts
+#EXTINF:-1,UK@ Home & Health
+http://188.93.238.184:8000/live/snet/snet/9470.ts
+#EXTINF:-1,UK@ Channel 5
+http://188.93.238.184:8000/live/snet/snet/13475.ts
+#EXTINF:-1,UK@ Real Lives
+http://188.93.238.184:8000/live/snet/snet/11342.ts
+#EXTINF:-1,UK@  5 Star
+http://188.93.238.184:8000/live/snet/snet/26961.ts
+#EXTINF:-1,UK@ Propeller TV
+http://188.93.238.184:8000/live/snet/snet/10773.ts
+#EXTINF:-1,UK@ AMC
+http://188.93.238.184:8000/live/snet/snet/11339.ts
+#EXTINF:-1,UK@ Home
+http://188.93.238.184:8000/live/snet/snet/11338.ts
+#EXTINF:-1,UK@ Property Show
+http://188.93.238.184:8000/live/snet/snet/11753.ts
+#EXTINF:-1,UK@ My Channel
+http://188.93.238.184:8000/live/snet/snet/11735.ts
+#EXTINF:-1,UK@ Showcase
+http://188.93.238.184:8000/live/snet/snet/11855.ts
+#EXTINF:-1,UK@ VOX Africa
+http://188.93.238.184:8000/live/snet/snet/11793.ts
+#EXTINF:-1,UK@ ABN TV
+http://188.93.238.184:8000/live/snet/snet/11337.ts
+#EXTINF:-1,UK@ Food Network
+http://188.93.238.184:8000/live/snet/snet/11335.ts
+#EXTINF:-1,UK@ RTE 2 HD
+http://188.93.238.184:8000/live/snet/snet/11334.ts
+#EXTINF:-1,UK@ TG4
+http://188.93.238.184:8000/live/snet/snet/11331.ts
+#EXTINF:-1,UK@ Ahlebait TV
+http://188.93.238.184:8000/live/snet/snet/11364.ts
+#EXTINF:-1,UK@ Ahlulbayt TV
+http://188.93.238.184:8000/live/snet/snet/11373.ts
+#EXTINF:-1,UK@ Ait International
+http://188.93.238.184:8000/live/snet/snet/11884.ts
+#EXTINF:-1,UK@ Al Arabiya News
+http://188.93.238.184:8000/live/snet/snet/11368.ts
+#EXTINF:-1,UK@ Al Arabiya.
+http://188.93.238.184:8000/live/snet/snet/12594.ts
+#EXTINF:-1,UK@ ATN Bangla UK
+http://188.93.238.184:8000/live/snet/snet/11363.ts
+#EXTINF:-1,UK@ BBC World News
+http://188.93.238.184:8000/live/snet/snet/11327.ts
+#EXTINF:-1,UK@ BelieveTV
+http://188.93.238.184:8000/live/snet/snet/11851.ts
+#EXTINF:-1,UK@ BEN TV
+http://188.93.238.184:8000/live/snet/snet/11341.ts
+#EXTINF:-1,UK@ Blaze
+http://188.93.238.184:8000/live/snet/snet/11877.ts
+#EXTINF:-1,UK@ Talking Pictures
+http://188.93.238.184:8000/live/snet/snet/11747.ts
+#EXTINF:-1,UK@ Record TV
+http://188.93.238.184:8000/live/snet/snet/11738.ts
+#EXTINF:-1,UK@ Forces TV
+http://188.93.238.184:8000/live/snet/snet/11898.ts
+#EXTINF:-1,UK@ London Live
+http://188.93.238.184:8000/live/snet/snet/11344.ts
+#EXTINF:-1,UK@ ITV 2
+http://188.93.238.184:8000/live/snet/snet/10749.ts
+#EXTINF:-1,UK@ 3E
+http://188.93.238.184:8000/live/snet/snet/26572.ts
+#EXTINF:-1,UK@ Sky 1
+http://188.93.238.184:8000/live/snet/snet/14193.ts
+#EXTINF:-1,UK@ Sky 2
+http://188.93.238.184:8000/live/snet/snet/14195.ts
+#EXTINF:-1,UK@ More 4
+http://188.93.238.184:8000/live/snet/snet/22411.ts
+#EXTINF:-1,UK@ E
+http://188.93.238.184:8000/live/snet/snet/26942.ts
+#EXTINF:-1,UK@ Thane
+http://188.93.238.184:8000/live/snet/snet/30019.ts
+#EXTINF:-1,UK@ Dave Ja vu
+http://188.93.238.184:8000/live/snet/snet/27692.ts
+#EXTINF:-1,UK@ Discovery HD
+http://188.93.238.184:8000/live/snet/snet/9879.ts
+#EXTINF:-1,UK@ Discovery
+http://188.93.238.184:8000/live/snet/snet/17217.ts
+#EXTINF:-1,UK@ ID HD
+http://188.93.238.184:8000/live/snet/snet/11352.ts
+#EXTINF:-1,UK@ ID (Backup)
+http://188.93.238.184:8000/live/snet/snet/29504.ts
+#EXTINF:-1,UK@ Animal Planet HD
+http://188.93.238.184:8000/live/snet/snet/9882.ts
+#EXTINF:-1,UK@ Animal Planet (Backup)
+http://188.93.238.184:8000/live/snet/snet/17219.ts
+#EXTINF:-1,UK@ Discovery Turbo
+http://188.93.238.184:8000/live/snet/snet/9883.ts
+#EXTINF:-1,UK@ Discovery Turbo (Backup)
+http://188.93.238.184:8000/live/snet/snet/37428.ts
+#EXTINF:-1,UK@ Insight HD
+http://188.93.238.184:8000/live/snet/snet/37161.ts
+#EXTINF:-1,UK@ Discovery Science
+http://188.93.238.184:8000/live/snet/snet/9884.ts
+#EXTINF:-1,UK@ National Geographic HD
+http://188.93.238.184:8000/live/snet/snet/9885.ts
+#EXTINF:-1,UK@ National Geographic Wild HD
+http://188.93.238.184:8000/live/snet/snet/29508.ts
+#EXTINF:-1,UK@ History
+http://188.93.238.184:8000/live/snet/snet/10738.ts
+#EXTINF:-1,UK@ H2 HD
+http://188.93.238.184:8000/live/snet/snet/9952.ts
+#EXTINF:-1,UK@ H2 (Backup)
+http://188.93.238.184:8000/live/snet/snet/27702.ts
+#EXTINF:-1,UK@ Eden HD
+http://188.93.238.184:8000/live/snet/snet/9984.ts
+#EXTINF:-1,UK@ Yesterday
+http://188.93.238.184:8000/live/snet/snet/10733.ts
+#EXTINF:-1,UK@ Crime + Investigation
+http://188.93.238.184:8000/live/snet/snet/10743.ts
+#EXTINF:-1,UK@ Sky Cinema Premiere HD
+http://188.93.238.184:8000/live/snet/snet/32855.ts
+#EXTINF:-1,UK@ Sky Cinema Premier  (Backup)
+http://188.93.238.184:8000/live/snet/snet/27090.ts
+#EXTINF:-1,UK@ Sky Cinema Drama HD
+http://188.93.238.184:8000/live/snet/snet/21865.ts
+#EXTINF:-1,UK@ Sky Cinema Disney HD
+http://188.93.238.184:8000/live/snet/snet/11378.ts
+#EXTINF:-1,UK@ Sky Cinema Disney  (Backup)
+http://188.93.238.184:8000/live/snet/snet/27092.ts
+#EXTINF:-1,UK@ Sky Cinema Family HD
+http://188.93.238.184:8000/live/snet/snet/11377.ts
+#EXTINF:-1,UK@ Sky Cinema Family  (Backup)
+http://188.93.238.184:8000/live/snet/snet/27093.ts
+#EXTINF:-1,UK@ Sky Cinema Action HD
+http://188.93.238.184:8000/live/snet/snet/32784.ts
+#EXTINF:-1,UK@ Sky Cinema Action  (Backup)
+http://188.93.238.184:8000/live/snet/snet/27094.ts
+#EXTINF:-1,UK@ Sky Cinema Comedy HD
+http://188.93.238.184:8000/live/snet/snet/11376.ts
+#EXTINF:-1,UK@ Sky Cinema Comedy (Backup)
+http://188.93.238.184:8000/live/snet/snet/27095.ts
+#EXTINF:-1,UK@ Sky Cinema Thriller HD
+http://188.93.238.184:8000/live/snet/snet/23804.ts
+#EXTINF:-1,UK@ Sky Cinema Thriller (Backup)
+http://188.93.238.184:8000/live/snet/snet/27096.ts
+#EXTINF:-1,UK@ Sky Cinema Select HD
+http://188.93.238.184:8000/live/snet/snet/32667.ts
+#EXTINF:-1,UK@ Sky Cinema Select (Backup)
+http://188.93.238.184:8000/live/snet/snet/27097.ts
+#EXTINF:-1,UK@ Sky Cinema Sci-Fi / Horror HD
+http://188.93.238.184:8000/live/snet/snet/13626.ts
+#EXTINF:-1,UK@ Sky Cinema Hits HD
+http://188.93.238.184:8000/live/snet/snet/37157.ts
+#EXTINF:-1,UK@ Sky Cinema Showcase HD
+http://188.93.238.184:8000/live/snet/snet/37274.ts
+#EXTINF:-1,UK@ Sky Cinema ScFi / Horror HD
+http://188.93.238.184:8000/live/snet/snet/11878.ts
+#EXTINF:-1,UK@ Film 4
+http://188.93.238.184:8000/live/snet/snet/21369.ts
+#EXTINF:-1,UK@ TCM HD
+http://188.93.238.184:8000/live/snet/snet/14207.ts
+#EXTINF:-1,UK@ Horror Channel
+http://188.93.238.184:8000/live/snet/snet/11872.ts
+#EXTINF:-1,UK@ Movies 4 Men
+http://188.93.238.184:8000/live/snet/snet/11869.ts
+#EXTINF:-1,UK@ Movies 4 men + 1
+http://188.93.238.184:8000/live/snet/snet/31321.ts
+#EXTINF:-1,UK@ Movies 24
+http://188.93.238.184:8000/live/snet/snet/26571.ts
+#EXTINF:-1,UK@ True Movies
+http://188.93.238.184:8000/live/snet/snet/26494.ts
+#EXTINF:-1,UK@ Nollywood
+http://188.93.238.184:8000/live/snet/snet/11885.ts
+#EXTINF:-1,UK@ ROK
+http://188.93.238.184:8000/live/snet/snet/11867.ts
+#EXTINF:-1,UK@ Whyte vs Parker
+http://188.93.238.184:8000/live/snet/snet/37710.ts
+#EXTINF:-1,UK@ Whyte vs Parker (Boxing Backup)
+http://188.93.238.184:8000/live/snet/snet/37709.ts
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://188.93.238.184:8000/live/snet/snet/36512.ts
+#EXTINF:-1,UK@ Sky Sports Main Event SD
+http://188.93.238.184:8000/live/snet/snet/37954.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36513.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37826.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://188.93.238.184:8000/live/snet/snet/36514.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://188.93.238.184:8000/live/snet/snet/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37400.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/36511.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://188.93.238.184:8000/live/snet/snet/37955.ts
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/16599.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://188.93.238.184:8000/live/snet/snet/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/snet/snet/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://188.93.238.184:8000/live/snet/snet/11911.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37294.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37834.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://188.93.238.184:8000/live/snet/snet/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://188.93.238.184:8000/live/snet/snet/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32594.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37836.ts
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://188.93.238.184:8000/live/snet/snet/36509.ts
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36510.ts
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://188.93.238.184:8000/live/snet/snet/9723.ts
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/29507.ts
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://188.93.238.184:8000/live/snet/snet/29815.ts
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://188.93.238.184:8000/live/snet/snet/10763.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://188.93.238.184:8000/live/snet/snet/36515.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32859.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37155.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://188.93.238.184:8000/live/snet/snet/37956.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37153.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/36508.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://188.93.238.184:8000/live/snet/snet/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32223.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37839.ts
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://188.93.238.184:8000/live/snet/snet/10759.ts
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/10760.ts
+#EXTINF:-1,UK@ BT Sport Espn (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37841.ts
+#EXTINF:-1,MY@ .Astro Sports
+http://188.93.238.184:8000/live/snet/snet/36505.ts
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://188.93.238.184:8000/live/snet/snet/36504.ts
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://188.93.238.184:8000/live/snet/snet/36503.ts
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://188.93.238.184:8000/live/snet/snet/36502.ts
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://188.93.238.184:8000/live/snet/snet/36501.ts
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://188.93.238.184:8000/live/snet/snet/36500.ts
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://188.93.238.184:8000/live/snet/snet/36499.ts
+#EXTINF:-1,UK@ LFC TV
+http://188.93.238.184:8000/live/snet/snet/33271.ts
+#EXTINF:-1,UK@ LFC TV Backup
+http://188.93.238.184:8000/live/snet/snet/31950.ts
+#EXTINF:-1,UK@ MUTV HD
+http://188.93.238.184:8000/live/snet/snet/26034.ts
+#EXTINF:-1,UK@ MUTV (Backup)
+http://188.93.238.184:8000/live/snet/snet/29480.ts
+#EXTINF:-1,UK@ Chelsea TV
+http://188.93.238.184:8000/live/snet/snet/10770.ts
+#EXTINF:-1,UK@ At The Races
+http://188.93.238.184:8000/live/snet/snet/37909.ts
+#EXTINF:-1,UK@ At The Races (Backup)
+http://188.93.238.184:8000/live/snet/snet/29479.ts
+#EXTINF:-1,UK@ Racing UK HD
+http://188.93.238.184:8000/live/snet/snet/11160.ts
+#EXTINF:-1,UK@ Racing UK (Backup)
+http://188.93.238.184:8000/live/snet/snet/29478.ts
+#EXTINF:-1,UK@ Racing UK (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37381.ts
+#EXTINF:-1,UK@ Boxnation HD
+http://188.93.238.184:8000/live/snet/snet/36506.ts
+#EXTINF:-1,UK@ Boxnation (Backup)
+http://188.93.238.184:8000/live/snet/snet/37382.ts
+#EXTINF:-1,UK@ Premier Sports HD
+http://188.93.238.184:8000/live/snet/snet/10767.ts
+#EXTINF:-1,UK@ Eir Sports 1 HD
+http://188.93.238.184:8000/live/snet/snet/10765.ts
+#EXTINF:-1,UK@ eir Sports 2 HD
+http://188.93.238.184:8000/live/snet/snet/37425.ts
+#EXTINF:-1,UK@ Motorsports TV
+http://188.93.238.184:8000/live/snet/snet/10772.ts
+#EXTINF:-1,UK@ Front Runner
+http://188.93.238.184:8000/live/snet/snet/11859.ts
+#EXTINF:-1,UK@ Front Runner 2
+http://188.93.238.184:8000/live/snet/snet/11372.ts
+#EXTINF:-1,UK@ Horse & Country
+http://188.93.238.184:8000/live/snet/snet/11365.ts
+#EXTINF:-1,UK@ Sky News HD
+http://188.93.238.184:8000/live/snet/snet/10899.ts
+#EXTINF:-1,UK@ Bloomberg News
+http://188.93.238.184:8000/live/snet/snet/10925.ts
+#EXTINF:-1,UK@ BBC News HD
+http://188.93.238.184:8000/live/snet/snet/10964.ts
+#EXTINF:-1,UK@ CNBC News
+http://188.93.238.184:8000/live/snet/snet/11016.ts
+#EXTINF:-1,UK@ NHK World News HD
+http://188.93.238.184:8000/live/snet/snet/11075.ts
+#EXTINF:-1,UK@ Euronews
+http://188.93.238.184:8000/live/snet/snet/11076.ts
+#EXTINF:-1,UK@ RT HD
+http://188.93.238.184:8000/live/snet/snet/11748.ts
+#EXTINF:-1,UK@ Al Jazeera Eng HD
+http://188.93.238.184:8000/live/snet/snet/11078.ts
+#EXTINF:-1,UK@ CNC World
+http://188.93.238.184:8000/live/snet/snet/11853.ts
+#EXTINF:-1,UK@ Channels 24
+http://188.93.238.184:8000/live/snet/snet/11356.ts
+#EXTINF:-1,UK@ CNN HD
+http://188.93.238.184:8000/live/snet/snet/11074.ts
+#EXTINF:-1,Star Media Peppa Pig
+http://188.93.238.184:8000/live/snet/snet/37748.ts
+#EXTINF:-1,UK@ Cartoon Network HD.
+http://188.93.238.184:8000/live/snet/snet/32933.ts
+#EXTINF:-1,UK@ Cartoonito
+http://188.93.238.184:8000/live/snet/snet/37290.ts
+#EXTINF:-1,UK@ Boomerang HD
+http://188.93.238.184:8000/live/snet/snet/32934.ts
+#EXTINF:-1,UK@ Boomerang (Backup)
+http://188.93.238.184:8000/live/snet/snet/37439.ts
+#EXTINF:-1,UK@ Nickelodeon HD
+http://188.93.238.184:8000/live/snet/snet/12654.ts
+#EXTINF:-1,UK@ Nick Jr
+http://188.93.238.184:8000/live/snet/snet/11379.ts
+#EXTINF:-1,UK@ Nick Jr too
+http://188.93.238.184:8000/live/snet/snet/36599.ts
+#EXTINF:-1,UK@ Disney XD HD
+http://188.93.238.184:8000/live/snet/snet/11381.ts
+#EXTINF:-1,UK@ Disney Channel HD.
+http://188.93.238.184:8000/live/snet/snet/12652.ts
+#EXTINF:-1,UK@ Disney Channel (Backup)
+http://188.93.238.184:8000/live/snet/snet/11380.ts
+#EXTINF:-1,UK@ Nicktoons
+http://188.93.238.184:8000/live/snet/snet/11391.ts
+#EXTINF:-1,UK@ Disney Jnr HD
+http://188.93.238.184:8000/live/snet/snet/12651.ts
+#EXTINF:-1,UK@ Disney Jnr (Backup)
+http://188.93.238.184:8000/live/snet/snet/11388.ts
+#EXTINF:-1,UK@ CBBC
+http://188.93.238.184:8000/live/snet/snet/11385.ts
+#EXTINF:-1,UK@ Citv
+http://188.93.238.184:8000/live/snet/snet/37158.ts
+#EXTINF:-1,UK@ Cbeebies HD
+http://188.93.238.184:8000/live/snet/snet/11387.ts
+#EXTINF:-1,UK@ Baby TV
+http://188.93.238.184:8000/live/snet/snet/11383.ts
+#EXTINF:-1,UK@ MTV Live HD
+http://188.93.238.184:8000/live/snet/snet/34608.ts
+#EXTINF:-1,UK@ MTV Music HD
+http://188.93.238.184:8000/live/snet/snet/37343.ts
+#EXTINF:-1,UK@ MTV Music
+http://188.93.238.184:8000/live/snet/snet/11270.ts
+#EXTINF:-1,UK@ MTV Hits
+http://188.93.238.184:8000/live/snet/snet/11268.ts
+#EXTINF:-1,UK@ MTV Hits (Backup)
+http://188.93.238.184:8000/live/snet/snet/37402.ts
+#EXTINF:-1,UK@ MTV Base
+http://188.93.238.184:8000/live/snet/snet/29485.ts
+#EXTINF:-1,UK@ MTV Base (Backup)
+http://188.93.238.184:8000/live/snet/snet/37373.ts
+#EXTINF:-1,UK@ MTV Rocks
+http://188.93.238.184:8000/live/snet/snet/11271.ts
+#EXTINF:-1,UK@ MTV Rocks (Backup)
+http://188.93.238.184:8000/live/snet/snet/37374.ts
+#EXTINF:-1,UK@ MTV Dance HD
+http://188.93.238.184:8000/live/snet/snet/37427.ts
+#EXTINF:-1,UK@ MTV Classic
+http://188.93.238.184:8000/live/snet/snet/11264.ts
+#EXTINF:-1,UK@ MTV Classic (Backup)
+http://188.93.238.184:8000/live/snet/snet/37403.ts
+#EXTINF:-1,UK@ MTV OMG
+http://188.93.238.184:8000/live/snet/snet/37152.ts
+#EXTINF:-1,UK@ Heart TV
+http://188.93.238.184:8000/live/snet/snet/11274.ts
+#EXTINF:-1,UK@ 4 Music
+http://188.93.238.184:8000/live/snet/snet/37280.ts
+#EXTINF:-1,UK@ VH1
+http://188.93.238.184:8000/live/snet/snet/36957.ts
+#EXTINF:-1,UK@ VH1 Classic
+http://188.93.238.184:8000/live/snet/snet/37401.ts
+#EXTINF:-1,UK@ VH1 Classic (Backup)
+http://188.93.238.184:8000/live/snet/snet/37407.ts
+#EXTINF:-1,UK@ Vintage TV
+http://188.93.238.184:8000/live/snet/snet/11283.ts
+#EXTINF:-1,UK@ Chilled 90s Radio
+http://188.93.238.184:8000/live/snet/snet/11741.ts
+#EXTINF:-1,UK@ NOW 80s..
+http://188.93.238.184:8000/live/snet/snet/11752.ts
+#EXTINF:-1,UK@ Country Network
+http://188.93.238.184:8000/live/snet/snet/37292.ts
+#EXTINF:-1,UK@ Clubland TV
+http://188.93.238.184:8000/live/snet/snet/11736.ts
+#EXTINF:-1,UK@ Channel AKA
+http://188.93.238.184:8000/live/snet/snet/11282.ts
+#EXTINF:-1,UK@ Capital TV
+http://188.93.238.184:8000/live/snet/snet/11742.ts
+#EXTINF:-1,UK@ Keep It Country
+http://188.93.238.184:8000/live/snet/snet/11861.ts
+#EXTINF:-1,UK@ .Virgin Radio TV (.)
+http://188.93.238.184:8000/live/snet/snet/11273.ts
+#EXTINF:-1,UK@ Magic Radio
+http://188.93.238.184:8000/live/snet/snet/13653.ts
+#EXTINF:-1,UK@ iON TV
+http://188.93.238.184:8000/live/snet/snet/23005.ts
+#EXTINF:-1,UK@ Absolute 80’s. (Radio)
+http://188.93.238.184:8000/live/snet/snet/12583.ts
+#EXTINF:-1,UK@ Absolute 90s. (Radio)
+http://188.93.238.184:8000/live/snet/snet/12581.ts
+#EXTINF:-1,UK@ PCNE Chinese
+http://188.93.238.184:8000/live/snet/snet/11901.ts
+#EXTINF:-1,UK@ Abu Dhabi TV
+http://188.93.238.184:8000/live/snet/snet/11881.ts
+#EXTINF:-1,UK@ Daystar TV
+http://188.93.238.184:8000/live/snet/snet/11739.ts
+#EXTINF:-1,UK@ CHSTV
+http://188.93.238.184:8000/live/snet/snet/11858.ts
+#EXTINF:-1,UK@ AAJ Tak
+http://188.93.238.184:8000/live/snet/snet/11303.ts
+#EXTINF:-1,UK@ Faith World TV
+http://188.93.238.184:8000/live/snet/snet/11360.ts
+#EXTINF:-1,UK@ FlowTV
+http://188.93.238.184:8000/live/snet/snet/11854.ts
+#EXTINF:-1,UK@ Glory TV
+http://188.93.238.184:8000/live/snet/snet/11367.ts
+#EXTINF:-1,UK@ GOD Channel
+http://188.93.238.184:8000/live/snet/snet/11889.ts
+#EXTINF:-1,UK@ Gospel Channel
+http://188.93.238.184:8000/live/snet/snet/11754.ts
+#EXTINF:-1,UK@ Hillsong
+http://188.93.238.184:8000/live/snet/snet/11875.ts
+#EXTINF:-1,UK@ Inspiration TV
+http://188.93.238.184:8000/live/snet/snet/11892.ts
+#EXTINF:-1,UK@ IQRA BANGLA
+http://188.93.238.184:8000/live/snet/snet/11759.ts
+#EXTINF:-1,UK@ Kanshi TV
+http://188.93.238.184:8000/live/snet/snet/11354.ts
+#EXTINF:-1,UK@ KICCTV
+http://188.93.238.184:8000/live/snet/snet/11358.ts
+#EXTINF:-1,UK@ KTV
+http://188.93.238.184:8000/live/snet/snet/12593.ts
+#EXTINF:-1,UK@ LOVEWORLD-TV
+http://188.93.238.184:8000/live/snet/snet/11863.ts
+#EXTINF:-1,UK@ NTV
+http://188.93.238.184:8000/live/snet/snet/11886.ts
+#EXTINF:-1,UK@ Olive TV
+http://188.93.238.184:8000/live/snet/snet/11353.ts
+#EXTINF:-1,UK@ Revelation
+http://188.93.238.184:8000/live/snet/snet/11890.ts
+#EXTINF:-1,UK@ Russia Today
+http://188.93.238.184:8000/live/snet/snet/11326.ts
+#EXTINF:-1,UK@ Safeer TV
+http://188.93.238.184:8000/live/snet/snet/12598.ts
+#EXTINF:-1,UK@ Sonlife
+http://188.93.238.184:8000/live/snet/snet/11849.ts
+#EXTINF:-1,UK@ Takbeer..
+http://188.93.238.184:8000/live/snet/snet/11750.ts
+#EXTINF:-1,UK@ TJC
+http://188.93.238.184:8000/live/snet/snet/12586.ts
+#EXTINF:-1,UK@ TJC Choice
+http://188.93.238.184:8000/live/snet/snet/12585.ts
+#EXTINF:-1,UK@ Travel Channel
+http://188.93.238.184:8000/live/snet/snet/11370.ts
+#EXTINF:-1,UK@ TV 99
+http://188.93.238.184:8000/live/snet/snet/11909.ts
+#EXTINF:-1,UK@ TV ONE
+http://188.93.238.184:8000/live/snet/snet/12597.ts
+#EXTINF:-1,UK@ TV99
+http://188.93.238.184:8000/live/snet/snet/11362.ts
+#EXTINF:-1,UK@ UTV Ireland
+http://188.93.238.184:8000/live/snet/snet/11343.ts
+#EXTINF:-1,UK@ Word Network
+http://188.93.238.184:8000/live/snet/snet/11893.ts
+#EXTINF:-1,UK@ TBN UK
+http://188.93.238.184:8000/live/snet/snet/11891.ts
+#EXTINF:-1,BAN@ Channel 9
+http://188.93.238.184:8000/live/snet/snet/14133.ts
+#EXTINF:-1,UK@ Islam Channel Urdu
+http://188.93.238.184:8000/live/snet/snet/14144.ts
+#EXTINF:-1,UK@ Discovery History.
+http://188.93.238.184:8000/live/snet/snet/10126.ts
+#EXTINF:-1,UK@ Zing
+http://188.93.238.184:8000/live/snet/snet/11314.ts
+#EXTINF:-1,UK@ .Nick Jr HD
+http://188.93.238.184:8000/live/snet/snet/12650.ts
+#EXTINF:-1,MY@ Astro Sports
+http://188.93.238.184:8000/live/snet/snet/36505.ts
+#EXTINF:-1,MY@ SkyNet Sports 1
+http://188.93.238.184:8000/live/snet/snet/19910.ts
+#EXTINF:-1,MY@ SkyNet Sports 2
+http://188.93.238.184:8000/live/snet/snet/19911.ts
+#EXTINF:-1,MY@ SkyNet Sports 3
+http://188.93.238.184:8000/live/snet/snet/19912.ts
+#EXTINF:-1,MY@ SkyNet Sports 4
+http://188.93.238.184:8000/live/snet/snet/19913.ts
+#EXTINF:-1,MY@ SkyNet Sports 5
+http://188.93.238.184:8000/live/snet/snet/19914.ts
+#EXTINF:-1,MY@ SkyNet Sports 6
+http://188.93.238.184:8000/live/snet/snet/19915.ts
+#EXTINF:-1,UK@ Quest
+http://188.93.238.184:8000/live/snet/snet/1409.ts
+#EXTINF:-1,IN@ PUNJAB 5aab TV
+http://188.93.238.184:8000/live/snet/snet/7857.ts
+#EXTINF:-1,UK@ JUS  Punjabi
+http://188.93.238.184:8000/live/snet/snet/21852.ts
+#EXTINF:-1,UK@ Star Utsav.
+http://188.93.238.184:8000/live/snet/snet/21854.ts
+#EXTINF:-1,UK@ MATV National
+http://188.93.238.184:8000/live/snet/snet/22527.ts
+#EXTINF:-1,Pan@ Chakde TV
+http://188.93.238.184:8000/live/snet/snet/26275.ts
+#EXTINF:-1,UK@ TVC News
+http://188.93.238.184:8000/live/snet/snet/6043.ts
+#EXTINF:-1,UK@ A1 TV
+http://188.93.238.184:8000/live/snet/snet/35119.ts
+#EXTINF:-1,UK@ Urdu1 Europe
+http://188.93.238.184:8000/live/snet/snet/35120.ts
+#EXTINF:-1,UK@ Sanskar
+http://188.93.238.184:8000/live/snet/snet/35121.ts
+#EXTINF:-1,UK@ VTV
+http://188.93.238.184:8000/live/snet/snet/35122.ts
+#EXTINF:-1,UK@ Iran Int'l HD
+http://188.93.238.184:8000/live/snet/snet/35887.ts
+#EXTINF:-1,UK@ Ziggo Sport Racing
+http://188.93.238.184:8000/live/snet/snet/37165.ts
+#EXTINF:-1,UK@ RT News  Now
+http://188.93.238.184:8000/live/snet/snet/12672.ts
+#EXTINF:-1,UK@ RTE ONE HD
+http://188.93.238.184:8000/live/snet/snet/37162.ts
+#EXTINF:-1,UK@ Euronews HD
+http://188.93.238.184:8000/live/snet/snet/37429.ts
+#EXTINF:-1,UK@ M2O Music
+http://188.93.238.184:8000/live/snet/snet/37461.ts
+#EXTINF:-1,UK@ Music Channel (Radio)
+http://188.93.238.184:8000/live/snet/snet/37462.ts
+#EXTINF:-1,UK@ THE VOICE
+http://188.93.238.184:8000/live/snet/snet/37463.ts
+#EXTINF:-1,UK@ BBC Alba
+http://188.93.238.184:8000/live/snet/snet/37492.ts
+#EXTINF:-1,UK@ BBC Parliament Live
+http://188.93.238.184:8000/live/snet/snet/37537.ts
+#EXTINF:-1,UK@ Garv Punjab Live HD
+http://188.93.238.184:8000/live/snet/snet/37676.ts
+#EXTINF:-1,UK@ Sky News (Backup)
+http://188.93.238.184:8000/live/snet/snet/37679.ts
+#EXTINF:-1,UK@ Sky Witness
+http://188.93.238.184:8000/live/snet/snet/37736.ts
+
+#EXTINF:-1,USA_Virgin
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/410.ts
+#EXTINF:-1,USA_NDVTV
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/412.ts
+#EXTINF:-1,USA_EbS NEWS
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/406.ts
+#EXTINF:-1,USA_EbS
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/407.ts
+#EXTINF:-1,USA_Dream tv
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/408.ts
+#EXTINF:-1,USA_alex tv
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/409.ts
+#EXTINF:-1,USA: WWE Network HD
+http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/487.ts
+
+#EXTINF:-1,US; The Weather Channel.
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3260.ts
+#EXTINF:-1,US: A&E HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3263.ts
+#EXTINF:-1,US: AMC
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3265.ts
+#EXTINF:-1,US: Food Network
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3262.ts
+#EXTINF:-1,US: Food Network.
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3261.ts
+#EXTINF:-1,US: Fox
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3264.ts
+#EXTINF:-1,US: HBO East HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3267.ts
+#EXTINF:-1,US: HBO Familly HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3266.ts
+#EXTINF:-1,US: HBO.
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3241.ts
+#EXTINF:-1,USA ABC NEWS HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3242.ts
+#EXTINF:-1,USA ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3243.ts
+#EXTINF:-1,USA C-SPAN 3
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3244.ts
+#EXTINF:-1,USA CBSN HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3245.ts
+#EXTINF:-1,USA CNBC
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3246.ts
+#EXTINF:-1,USA CNN HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3247.ts
+#EXTINF:-1,USA ESPN HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3248.ts
+#EXTINF:-1,USA ESPN HD.
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3249.ts
+#EXTINF:-1,USA NBA TV
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3250.ts
+#EXTINF:-1,USA PAC 12 ARIZONA
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3251.ts
+#EXTINF:-1,USA PAC 12 LOS ANGELES
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3252.ts
+#EXTINF:-1,USA PAG 12 MOUNTAIN
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3253.ts
+#EXTINF:-1,USA SYFY HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3254.ts
+#EXTINF:-1,USA TSN 1 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3255.ts
+#EXTINF:-1,USA TSN 3
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3256.ts
+#EXTINF:-1,USA TSN 4 HD.
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3257.ts
+#EXTINF:-1,USA TSN 5 HD
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3258.ts
+#EXTINF:-1,USA WGN NEWS TV
+#EXTVLCOPT:http-user-agent=uuuufuck7785
+http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3259.ts
+
+#EXTINF:-1,USA::-AMC
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8449.ts
+#EXTINF:-1,USA::-Animal.Planet
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8448.ts
+#EXTINF:-1,USA::-BeinSports.usa
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8447.ts
+#EXTINF:-1,USA::-Bravo
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8446.ts
+#EXTINF:-1,USA::-Cinemax.East
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8445.ts
+#EXTINF:-1,USA::-Cinemax.Moremax
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8444.ts
+#EXTINF:-1,USA::-Discovery
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8443.ts
+#EXTINF:-1,USA::-Discovery.Science
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8442.ts
+#EXTINF:-1,USA::-ESPN1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8441.ts
+#EXTINF:-1,USA::-ESPN2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8440.ts
+#EXTINF:-1,USA::-Fight.Network
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8439.ts
+#EXTINF:-1,USA::-Fox.Sport1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8438.ts
+#EXTINF:-1,USA::-Fox.Sport2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8437.ts
+#EXTINF:-1,USA::-Hallmark
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8436.ts
+#EXTINF:-1,USA::-HBO
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8435.ts
+#EXTINF:-1,USA::-HBO.Comedy
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8434.ts
+#EXTINF:-1,USA::-HBO.Sinature
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8433.ts
+#EXTINF:-1,USA::-HBO.Zone
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8432.ts
+#EXTINF:-1,USA::-Lifetime
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8431.ts
+#EXTINF:-1,USA::-NBC.Golf
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8430.ts
+#EXTINF:-1,USA::-NBC.Sports
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8429.ts
+#EXTINF:-1,USA::-Showtime
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8428.ts
+#EXTINF:-1,USA::-Showtime2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8427.ts
+#EXTINF:-1,USA::-SportsNet
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8426.ts
+#EXTINF:-1,USA::-Starz..Cinema
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8425.ts
+#EXTINF:-1,USA::-Starz.Comedy
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8424.ts
+#EXTINF:-1,USA::-Starz.East
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8423.ts
+#EXTINF:-1,USA::-Starz.Edge
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8422.ts
+#EXTINF:-1,USA::-TNT
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8421.ts
+#EXTINF:-1,USA::-TSN1
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8420.ts
+#EXTINF:-1,USA::-TSN2
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8419.ts
+#EXTINF:-1,USA::-TSN3
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8418.ts
+#EXTINF:-1,USA::-TSN4
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8417.ts
+#EXTINF:-1,USA::-TSN5
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8416.ts
+#EXTINF:-1,USA::-USA.Network
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8415.ts
+#EXTINF:-1,USA::-WWE.Network
+#EXTVLCOPT:http-user-agent=Stupied
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8414.ts
+
+#EXTINF:-1,US: CBS 47 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7785.ts
+#EXTINF:-1,US: 3 ABN kids
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9463.ts
+#EXTINF:-1,US: C SPAIN 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16688.ts
+#EXTINF:-1,US: C SPAIN 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16689.ts
+#EXTINF:-1,US: C SPAIN 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16690.ts
+#EXTINF:-1,US: FOX 25 BOSTON
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15598.ts
+#EXTINF:-1,US: JBS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9460.ts
+#EXTINF:-1,US: 3ABN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9465.ts
+#EXTINF:-1,US: 3ABN International
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9467.ts
+#EXTINF:-1,US: CBN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9469.ts
+#EXTINF:-1,US: CBN NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9468.ts
+#EXTINF:-1,US: CBSN News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9477.ts
+#EXTINF:-1,US: CMC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9458.ts
+#EXTINF:-1,US: PAC-12 Arizona
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9470.ts
+#EXTINF:-1,US: PAC-12 Bay Area
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9472.ts
+#EXTINF:-1,US: PAC-12 Mountain
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9473.ts
+#EXTINF:-1,US: PAC-12 Network
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9476.ts
+#EXTINF:-1,US:  PAC-12 Los Angeles
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9471.ts
+#EXTINF:-1,US: PAC-12 Oregon
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9474.ts
+#EXTINF:-1,US: PAC-12 Washington
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9475.ts
+#EXTINF:-1,US: FOX 23 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7789.ts
+#EXTINF:-1,US: HOPE CHANNEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7793.ts
+#EXTINF:-1,US: INFOWARS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18853.ts
+#EXTINF:-1,US: DAYSTAR TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18854.ts
+#EXTINF:-1,US: CALIFORNIA MUSIC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18873.ts
+#EXTINF:-1,US: DAYTONA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18856.ts
+#EXTINF:-1,US: DCN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18857.ts
+#EXTINF:-1,US: DKN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18858.ts
+#EXTINF:-1,US: WHPR TV 33 Detroit
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18860.ts
+#EXTINF:-1,US: NFL NETWORK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18861.ts
+#EXTINF:-1,US: QVC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18862.ts
+#EXTINF:-1,US: NBC 11
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18863.ts
+#EXTINF:-1,US: RT NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18864.ts
+#EXTINF:-1,US: SG TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18865.ts
+#EXTINF:-1,US: Southeastern Channel
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18866.ts
+#EXTINF:-1,US: SPYDAR TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18867.ts
+#EXTINF:-1,US: TUFF  TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18868.ts
+#EXTINF:-1,US: TVV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18869.ts
+#EXTINF:-1,US: NEWS 12 island
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18870.ts
+#EXTINF:-1,US: VICELAND
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18871.ts
+#EXTINF:-1,US: NEWS 12  Westchester
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18872.ts
+#EXTINF:-1,US: PIX 11
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7802.ts
+#EXTINF:-1,US: UALR TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9459.ts
+#EXTINF:-1,US: NEWS 12 hudson valley
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9455.ts
+#EXTINF:-1,US: NEWSMAX TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7797.ts
+#EXTINF:-1,US: NEWS 12 THE BROOKLYN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7770.ts
+#EXTINF:-1,US: FILM CLUP
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11548.ts
+#EXTINF:-1,US:  RADIO MONTE CARLO TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11561.ts
+#EXTINF:-1,US:  360 north
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11562.ts
+#EXTINF:-1,US:  RETRO MUSIC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11567.ts
+#EXTINF:-1,US:  AKC TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11604.ts
+#EXTINF:-1,US: GOD TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11526.ts
+#EXTINF:-1,US: ABC HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11568.ts
+#EXTINF:-1,US:  Virgin TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11596.ts
+#EXTINF:-1,US: Fox News HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11602.ts
+#EXTINF:-1,US: HUNT CHANNEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11236.ts
+#EXTINF:-1,US: BLOOMBERG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11234.ts
+#EXTINF:-1,US: NLF
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18421.ts
+#EXTINF:-1,US: MSNBC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18688.ts
+#EXTINF:-1,US: TRE  NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18689.ts
+#EXTINF:-1,US: WGN NEWS CHICAGO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13612.ts
+#EXTINF:-1,US: ABC   east
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
+#EXTINF:-1,US: IMPAC FRESLING
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18852.ts
+#EXTINF:-1,US: KEY TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11235.ts
+#EXTINF:-1,US: ARTS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18906.ts
+#EXTINF:-1,US: HOUSE CHANNEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18920.ts
+#EXTINF:-1,US: Catholic TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18918.ts
+#EXTINF:-1,US: CHANNEL 20
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18910.ts
+#EXTINF:-1,US: Cascade Hills Church
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18908.ts
+#EXTINF:-1,US: 3ABN francais
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20461.ts
+#EXTINF:-1,US: 3ABN Proclaim!
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20451.ts
+#EXTINF:-1,US: ABNSAT TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21584.ts
+#EXTINF:-1,US: AMC HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21186.ts
+#EXTINF:-1,US: Columbia Network
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20452.ts
+#EXTINF:-1,US: Discovery HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20515.ts
+#EXTINF:-1,US: Knowledge Network
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20453.ts
+#EXTINF:-1,US: Kool TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20456.ts
+#EXTINF:-1,US: NBC 5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20258.ts
+#EXTINF:-1,US: NICKTOONS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20259.ts
+#EXTINF:-1,US: SBN Domestic
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21577.ts
+#EXTINF:-1,US: SBN Global
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21578.ts
+#EXTINF:-1,US: SBN International
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21579.ts
+#EXTINF:-1,US: SMILE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21580.ts
+#EXTINF:-1,US: STAR EDG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20262.ts
+#EXTINF:-1,US: TCT KIDS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.ts
+#EXTINF:-1,US: The Blaze
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20462.ts
+#EXTINF:-1,US: The Country Network
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20463.ts
+#EXTINF:-1,US: The NOW Network
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21583.ts
+#EXTINF:-1,US: trawel channel
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20265.ts
+#EXTINF:-1,US: EWTN espanol
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18909.ts
+#EXTINF:-1,US: JCTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18915.ts
+#EXTINF:-1,US: KCCG-TV2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18905.ts
+#EXTINF:-1,US: PCTV 26
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18914.ts
+#EXTINF:-1,US: NEWS 12 THE BRONX
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18907.ts
+#EXTINF:-1,US: SFGovTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18917.ts
+#EXTINF:-1,US: Tempe 11
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18911.ts
+#EXTINF:-1,US: ACRE TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18940.ts
+#EXTINF:-1,US: AVN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18930.ts
+#EXTINF:-1,US: CBN  NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18942.ts
+#EXTINF:-1,US: CYC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18929.ts
+#EXTINF:-1,US: TWW 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21582.ts
+#EXTINF:-1,US: WWE Network HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21064.ts
+#EXTINF:-1,US: Central Valley Talk
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18938.ts
+#EXTINF:-1,US: Channel 99
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18936.ts
+#EXTINF:-1,US: City of Charlotte
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18934.ts
+#EXTINF:-1,US: RADUT TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18941.ts
+#EXTINF:-1,US: CT-N
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18939.ts
+#EXTINF:-1,US: REVN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18927.ts
+#EXTINF:-1,US: Jewelry TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18924.ts
+#EXTINF:-1,US: LA 36
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18925.ts
+#EXTINF:-1,US: LFUCG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18928.ts
+#EXTINF:-1,US: WOHU TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18922.ts
+#EXTINF:-1,US: Oscar Aguero Ministry
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18932.ts
+#EXTINF:-1,US: RadioU TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18931.ts
+#EXTINF:-1,US: RTN Channel 11
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18937.ts
+#EXTINF:-1,US: SFGovTV 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18933.ts
+#EXTINF:-1,US: SPRIT TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18923.ts
+#EXTINF:-1,US: TCT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18926.ts
+#EXTINF:-1,US: WCCA TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18935.ts
+#EXTINF:-1,US: Better Life TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18912.ts
+#EXTINF:-1,US: UN Webcast
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18919.ts
+#EXTINF:-1,US: WACX TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18921.ts
+#EXTINF:-1,US: WSPF TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18913.ts
+#EXTINF:-1,US: BYU.TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18816.ts
+#EXTINF:-1,US: Free Speech TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18880.ts
+#EXTINF:-1,US: NEWS 12 connecticut
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7805.ts
+#EXTINF:-1,US: OWN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18881.ts
+#EXTINF:-1,US: PBS HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18878.ts
+#EXTINF:-1,US: FOX 5 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18882.ts
+#EXTINF:-1,US: ABC  NEWS  24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18904.ts
+#EXTINF:-1,US: KXAN News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18874.ts
+#EXTINF:-1,US: NBC 4  NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18883.ts
+#EXTINF:-1,US: NEWS 25
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18877.ts
+#EXTINF:-1,US: CHANNEL 11 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20469.ts
+#EXTINF:-1,US: KOB 4 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20468.ts
+#EXTINF:-1,US: MIAMI TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20268.ts
+#EXTINF:-1,US: ABC 7 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20457.ts
+#EXTINF:-1,US: Hillsong Channel
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20458.ts
+#EXTINF:-1,US: RANDOM CHANNEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20460.ts
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,US: TSTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19383.ts
+#EXTINF:-1,US: TVW
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20464.ts
+#EXTINF:-1,US: Voice of America
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20465.ts
+#EXTINF:-1,US: VTV Channel 6 Colorado
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20466.ts
+#EXTINF:-1,US: WEATHER CHANNEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20247.ts
+#EXTINF:-1,US: WGN 9 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19381.ts
+#EXTINF:-1,US: 3ABN englis
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20467.ts
+#EXTINF:-1,US: ORANGE TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20459.ts
+#EXTINF:-1,US: FOX 25 NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20454.ts
+#EXTINF:-1,US: Evine Live
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20455.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19387.ts
+#EXTINF:-1,US: NewsChannel 21
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18879.ts
+#EXTINF:-1,US: Capital TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18459.ts
+#EXTINF:-1,US: Dare to Dream
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18875.ts
+#EXTINF:-1,US: ESPN  NBA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19749.ts
+#EXTINF:-1,US: TBN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18815.ts
+#EXTINF:-1,US: Visual Radio
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11597.ts
+#EXTINF:-1,US: NEWS 12
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9984.ts
+#EXTINF:-1,US: NEWS 12  new jersey
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7806.ts
+#EXTINF:-1,US: WCCB NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7807.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19270.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19291.ts
+#EXTINF:-1,UK: ComedyXtra
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19247.ts
+#EXTINF:-1,UK: CRIME & INVERSTIGATION
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19238.ts
+#EXTINF:-1,UK: MOVIES ACTION HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19327.ts
+#EXTINF:-1,UK: TG4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19325.ts
+#EXTINF:-1,UK: TLC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19324.ts
+#EXTINF:-1,UK: NICK JUNIOR
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19192.ts
+#EXTINF:-1,UK: DISCCOVERY TURBO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19235.ts
+#EXTINF:-1,UK: True Movies 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19234.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19262.ts
+#EXTINF:-1,UK: 5 Star
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19357.ts
+#EXTINF:-1,UK: 5 USA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19358.ts
+#EXTINF:-1,UK: Alibi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19359.ts
+#EXTINF:-1,UK: BBC 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19356.ts
+#EXTINF:-1,UK: BBC News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19354.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19226.ts
+#EXTINF:-1,UK: MOVIES DISNEY HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19301.ts
+#EXTINF:-1,UK: Animal Planet
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19283.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19224.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19350.ts
+#EXTINF:-1,UK: TCM
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19220.ts
+#EXTINF:-1,UK: E !
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19345.ts
+#EXTINF:-1,UK: ITV 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19339.ts
+#EXTINF:-1,UK: ITV Be
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19337.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19336.ts
+#EXTINF:-1,UK: ITV4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19338.ts
+#EXTINF:-1,UK: More 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19332.ts
+#EXTINF:-1,UK: Sky Two HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19294.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19330.ts
+#EXTINF:-1,UK: DAVE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19236.ts
+#EXTINF:-1,UK: Disney XD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19191.ts
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19190.ts
+#EXTINF:-1,UK: NICKTOONS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19188.ts
+#EXTINF:-1,UK: ITV 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19187.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19186.ts
+#EXTINF:-1,UK: CBS ACTION
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19274.ts
+#EXTINF:-1,UK: Comedy Central
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19251.ts
+#EXTINF:-1,UK: CBS NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7786.ts
+#EXTINF:-1,UK: ABC NEWS 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20374.ts
+#EXTINF:-1,UK: Arise News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20371.ts
+#EXTINF:-1,UK: RT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20372.ts
+#EXTINF:-1,UK: RTE NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20373.ts
+#EXTINF:-1,UK: CTV 8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20375.ts
+#EXTINF:-1,UK: Wairarapa TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20376.ts
+#EXTINF:-1,UK: DISCOVERY
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9206.ts
+#EXTM3U
+#EXTINF:-1,DE: Eurosport 2 HD Xtra
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/5245.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1028.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1002.ts
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15586.ts
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15587.ts
+#EXTINF:-1,Sky Select 1: Skyscraper
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15643.mkv
+#EXTINF:-1,Sky Select 2: Molly's Game
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15191.mkv
+#EXTINF:-1,Sky Select 3: I Kill Giants
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15175.mkv
+#EXTINF:-1,Sky Select 4: Rampage - Big meets Bigger
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15253.mkv
+#EXTINF:-1,Sky Select 5: Criminal Squad
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15085.mkv
+#EXTINF:-1,Sky Select 6: Die Sch'tis in Paris
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15269.mkv
+#EXTINF:-1,Sky Select 7: Dieses bescheuerte Herz
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15192.mkv
+#EXTINF:-1,Sky Select 8: Game Night
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/14929.mkv
+#EXTINF:-1,Sky Select 9: Jurassic World 2 : Das gefallene Königreich
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15270.mkv
+#EXTINF:-1,Sky Select 10: Ready Player One
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15119.mkv
+#EXTINF:-1,Sky Select 11: Pacific Rim 2: Uprising
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15144.mkv
+#EXTINF:-1,Sky Select 12: Red Sparrow
+http://darealserver.ddns.net:8000/movie/vusolo4k/JLzUqS0jUt/15133.mkv
+
+#EXTINF:-1,DE:ZDF HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8773.ts
+#EXTINF:-1,DE: Zdf HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8788.ts
+#EXTINF:-1,DE:ZDFneo
+http://145.239.0.158:8080/live/mehmet/mehmet123/8774.ts
+#EXTINF:-1,DE:Zee One
+http://145.239.0.158:8080/live/mehmet/mehmet123/8775.ts
+#EXTINF:-1,DE: Zee One
+http://145.239.0.158:8080/live/mehmet/mehmet123/8789.ts
+#EXTINF:-1,DE: Das Erste
+http://145.239.0.158:8080/live/mehmet/mehmet123/8777.ts
+#EXTINF:-1,DE:ONE HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8712.ts
+#EXTINF:-1,DE:WDR  HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8770.ts
+#EXTINF:-1,DE: Rtl HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8782.ts
+#EXTINF:-1,DE:RTL 2 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8717.ts
+#EXTINF:-1,DE: Rtl 2 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8781.ts
+#EXTINF:-1,DE:RTL Crime HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8718.ts
+#EXTINF:-1,DE:RTL HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8719.ts
+#EXTINF:-1,DE:RTL Nitro HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8720.ts
+#EXTINF:-1,DE:RTL Passion
+http://145.239.0.158:8080/live/mehmet/mehmet123/8721.ts
+#EXTINF:-1,DE:RTLplus
+http://145.239.0.158:8080/live/mehmet/mehmet123/8722.ts
+#EXTINF:-1,DE:Super RTL HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8759.ts
+#EXTINF:-1,DE: Super Rtl HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8785.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8778.ts
+#EXTINF:-1,DE: ProSieben HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8780.ts
+#EXTINF:-1,DE:ProSieben HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8714.ts
+#EXTINF:-1,DE:ProSieben MAXX
+http://145.239.0.158:8080/live/mehmet/mehmet123/8715.ts
+#EXTINF:-1,DE: Sat.1 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8783.ts
+#EXTINF:-1,DE:Sat.1 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8724.ts
+#EXTINF:-1,DE:SAT.1 Gold HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8723.ts
+#EXTINF:-1,DE: Vox HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8787.ts
+#EXTINF:-1,DE:VOX HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8769.ts
+#EXTINF:-1,DE:3sat HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8676.ts
+#EXTINF:-1,DE:Anixe HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8677.ts
+#EXTINF:-1,DE:NDR HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8709.ts
+#EXTINF:-1,DE:ROMANCE TV
+http://145.239.0.158:8080/live/mehmet/mehmet123/8716.ts
+#EXTINF:-1,DE:Welt (N24 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8771.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://145.239.0.158:8080/live/mehmet/mehmet123/8674.ts
+#EXTINF:-1,DE:13th Street HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8675.ts
+#EXTINF:-1,DE:Sixx HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8725.ts
+#EXTINF:-1,DE: Sixx HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8784.ts
+#EXTINF:-1,DE: KABEL 1 DOKU HD 720p
+http://145.239.0.158:8080/live/mehmet/mehmet123/8955.ts
+#EXTINF:-1,DE: KABEL 1 DOKU
+http://145.239.0.158:8080/live/mehmet/mehmet123/9430.ts
+#EXTINF:-1,DE:Baden-Tv
+http://145.239.0.158:8080/live/mehmet/mehmet123/8680.ts
+#EXTINF:-1,DE:Boomerang
+http://145.239.0.158:8080/live/mehmet/mehmet123/8681.ts
+#EXTINF:-1,DE:Cartoon Network
+http://145.239.0.158:8080/live/mehmet/mehmet123/8682.ts
+#EXTINF:-1,DE:Das Erste HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8683.ts
+#EXTINF:-1,DE:Discovery Channel HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8684.ts
+#EXTINF:-1,DE:Disney Channel
+http://145.239.0.158:8080/live/mehmet/mehmet123/8685.ts
+#EXTINF:-1,DE:Disney Cinemagic HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8686.ts
+#EXTINF:-1,DE:Disney Junior
+http://145.239.0.158:8080/live/mehmet/mehmet123/8687.ts
+#EXTINF:-1,DE:Disney XD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8688.ts
+#EXTINF:-1,DE:DMAX
+http://145.239.0.158:8080/live/mehmet/mehmet123/8689.ts
+#EXTINF:-1,DE:DRF 1
+http://145.239.0.158:8080/live/mehmet/mehmet123/8690.ts
+#EXTINF:-1,DE:E! Entertainm. HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8691.ts
+#EXTINF:-1,DE:Family TV HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8696.ts
+#EXTINF:-1,DE:Fox Serie
+http://145.239.0.158:8080/live/mehmet/mehmet123/8697.ts
+#EXTINF:-1,DE:Heimatkanal
+http://145.239.0.158:8080/live/mehmet/mehmet123/8698.ts
+#EXTINF:-1,DE:History HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8699.ts
+#EXTINF:-1,DE:HR
+http://145.239.0.158:8080/live/mehmet/mehmet123/8700.ts
+#EXTINF:-1,DE:Jukebox
+http://145.239.0.158:8080/live/mehmet/mehmet123/8701.ts
+#EXTINF:-1,DE:Junior
+http://145.239.0.158:8080/live/mehmet/mehmet123/8702.ts
+#EXTINF:-1,DE:Kabel eins HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8703.ts
+#EXTINF:-1,DE:KIKA HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8704.ts
+#EXTINF:-1,DE:MTV HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8705.ts
+#EXTINF:-1,DE:n-tv HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8706.ts
+#EXTINF:-1,DE:Nat Geo Wild HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8707.ts
+#EXTINF:-1,DE:National Geographic HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8708.ts
+#EXTINF:-1,DE:Nickelodeon HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8710.ts
+#EXTINF:-1,DE:NRJ TV
+http://145.239.0.158:8080/live/mehmet/mehmet123/8711.ts
+#EXTINF:-1,DE:Phoenix HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8713.ts
+#EXTINF:-1,DE: ANIXE SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8776.ts
+#EXTINF:-1,DE: N24 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8779.ts
+#EXTINF:-1,DE: TLC HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8786.ts
+#EXTINF:-1,DE:SR HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8758.ts
+#EXTINF:-1,DE:SWR BW HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8760.ts
+#EXTINF:-1,DE:SYFY HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8761.ts
+#EXTINF:-1,DE:Tele 5
+http://145.239.0.158:8080/live/mehmet/mehmet123/8762.ts
+#EXTINF:-1,DE:TLC
+http://145.239.0.158:8080/live/mehmet/mehmet123/8763.ts
+#EXTINF:-1,DE:TNT Comedy HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8764.ts
+#EXTINF:-1,DE:TNT Film (TCM)
+http://145.239.0.158:8080/live/mehmet/mehmet123/8765.ts
+#EXTINF:-1,DE:TNT Serie HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8766.ts
+#EXTINF:-1,DE:Universal HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8767.ts
+#EXTINF:-1,DE:VIVA HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8768.ts
+#EXTINF:-1,DE:XITE HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8772.ts
+#EXTINF:-1,DE:Spiegel Geschichte
+http://145.239.0.158:8080/live/mehmet/mehmet123/8755.ts
+#EXTINF:-1,DE:Sky Arts HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8726.ts
+#EXTINF:-1,DE: Sky Select 3D Live
+http://145.239.0.158:8080/live/mehmet/mehmet123/8803.ts
+#EXTINF:-1,DE: Sky Select Live 1
+http://145.239.0.158:8080/live/mehmet/mehmet123/8791.ts
+#EXTINF:-1,DE: Sky Select Live 10
+http://145.239.0.158:8080/live/mehmet/mehmet123/8800.ts
+#EXTINF:-1,DE: Sky Select Live 11
+http://145.239.0.158:8080/live/mehmet/mehmet123/8801.ts
+#EXTINF:-1,DE: Sky Select Live 12
+http://145.239.0.158:8080/live/mehmet/mehmet123/8802.ts
+#EXTINF:-1,DE: Sky Select Live 2
+http://145.239.0.158:8080/live/mehmet/mehmet123/8792.ts
+#EXTINF:-1,DE: Sky Select Live 3
+http://145.239.0.158:8080/live/mehmet/mehmet123/8793.ts
+#EXTINF:-1,DE: Sky Select Live 4
+http://145.239.0.158:8080/live/mehmet/mehmet123/8794.ts
+#EXTINF:-1,DE: Sky Select Live 5
+http://145.239.0.158:8080/live/mehmet/mehmet123/8795.ts
+#EXTINF:-1,DE: Sky Select Live 6
+http://145.239.0.158:8080/live/mehmet/mehmet123/8796.ts
+#EXTINF:-1,DE: Sky Select Live 7
+http://145.239.0.158:8080/live/mehmet/mehmet123/8797.ts
+#EXTINF:-1,DE: Sky Select Live 8
+http://145.239.0.158:8080/live/mehmet/mehmet123/8798.ts
+#EXTINF:-1,DE: Sky Select Live 9
+http://145.239.0.158:8080/live/mehmet/mehmet123/8799.ts
+#EXTINF:-1,DE: Sky Select Vitrine
+http://145.239.0.158:8080/live/mehmet/mehmet123/8790.ts
+#EXTINF:-1,DE:Sky Atlantic HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8727.ts
+#EXTINF:-1,DE:Sky Cinema   24
+http://145.239.0.158:8080/live/mehmet/mehmet123/8729.ts
+#EXTINF:-1,DE:Sky Cinema  1
+http://145.239.0.158:8080/live/mehmet/mehmet123/8728.ts
+#EXTINF:-1,DE:Sky Cinema Action HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8730.ts
+#EXTINF:-1,DE:Sky Cinema Comedy
+http://145.239.0.158:8080/live/mehmet/mehmet123/8731.ts
+#EXTINF:-1,DE:Sky Cinema Emotion
+http://145.239.0.158:8080/live/mehmet/mehmet123/8732.ts
+#EXTINF:-1,DE:Sky cinema Family
+http://145.239.0.158:8080/live/mehmet/mehmet123/8733.ts
+#EXTINF:-1,DE:Sky Cinema HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8734.ts
+#EXTINF:-1,DE:Sky Cinema Hits HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8735.ts
+#EXTINF:-1,DE:Sky Cinema Nostalgie
+http://145.239.0.158:8080/live/mehmet/mehmet123/8736.ts
+#EXTINF:-1,DE:Sky Krimi
+http://145.239.0.158:8080/live/mehmet/mehmet123/8737.ts
+#EXTINF:-1,DE: Film Club 1 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12336.ts
+#EXTINF:-1,DE: Film Club 2 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12335.ts
+#EXTINF:-1,DE: Film Club 3 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12334.ts
+#EXTINF:-1,DE: Film Club 4 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12333.ts
+#EXTINF:-1,DE: Film Club 5 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12332.ts
+#EXTINF:-1,DE: Sky Cinema  1 SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12330.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12322.ts
+#EXTINF:-1,DE: Sky Cinema  24 SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12329.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12318.ts
+#EXTINF:-1,DE: Sky Cinema Action SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12325.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12319.ts
+#EXTINF:-1,DE: Sky Cinema Comedy SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12326.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12317.ts
+#EXTINF:-1,DE: Sky Cinema Emotion SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12324.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12320.ts
+#EXTINF:-1,DE: Sky Cinema Family SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12327.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12323.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12321.ts
+#EXTINF:-1,DE: Sky Cinema Hits SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12328.ts
+#EXTINF:-1,DE: Sky Cinema SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12331.ts
+#EXTINF:-1,DE: Sky Select 3D Live (Rampage-Big meets Bigger)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12337.ts
+#EXTINF:-1,DE: Sky Select FHD 1 (Avengers 3-Infinity War)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12349.ts
+#EXTINF:-1,DE: Sky Select FHD 10 (Rampage-Big Meets Bigger)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12340.ts
+#EXTINF:-1,DE: Sky Select FHD 11 (Hot Dog)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12339.ts
+#EXTINF:-1,DE: Sky Select FHD 12 (Sherlock Gnomes)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12338.ts
+#EXTINF:-1,DE: Sky Select FHD 2 (Nur Gott kann mich richten)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12348.ts
+#EXTINF:-1,DE: Sky Select FHD 3 (Der Sex Pakt)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12347.ts
+#EXTINF:-1,DE: Sky Select FHD 4 (Lady Bird)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12346.ts
+#EXTINF:-1,DE: Sky Select FHD 5 (Dieses bescheuerte Herz)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12345.ts
+#EXTINF:-1,DE: Sky Select FHD 6 (Pacific Rim 2-Uprising)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12344.ts
+#EXTINF:-1,DE: Sky Select FHD 7 (Die kleine Hexe)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12343.ts
+#EXTINF:-1,DE: Sky Select FHD 8 (Game Night)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12342.ts
+#EXTINF:-1,DE: Sky Select FHD 9 (Unsane-Ausgeliefert)
+http://145.239.0.158:8080/live/mehmet/mehmet123/12341.ts
+#EXTINF:-1,DE: DAZN 1 Bar FHD local
+http://145.239.0.158:8080/live/mehmet/mehmet123/12261.ts
+#EXTINF:-1,DE: DAZN 2 Bar FHD local
+http://145.239.0.158:8080/live/mehmet/mehmet123/12262.ts
+#EXTINF:-1,DE:Sport 1
+http://145.239.0.158:8080/live/mehmet/mehmet123/8756.ts
+#EXTINF:-1,DE:Sport1  HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8757.ts
+#EXTINF:-1,DE:EuroNews
+http://145.239.0.158:8080/live/mehmet/mehmet123/8692.ts
+#EXTINF:-1,DE:Eurosport 1 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8693.ts
+#EXTINF:-1,DE:Eurosport 2 HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8694.ts
+#EXTINF:-1,DE:Eurosport 2 HD Xtra
+http://145.239.0.158:8080/live/mehmet/mehmet123/8695.ts
+#EXTINF:-1,DE:Sky Sport 1
+http://145.239.0.158:8080/live/mehmet/mehmet123/8738.ts
+#EXTINF:-1,DE:Sky Sport 2
+http://145.239.0.158:8080/live/mehmet/mehmet123/8739.ts
+#EXTINF:-1,DE:Sky Sport 3
+http://145.239.0.158:8080/live/mehmet/mehmet123/8740.ts
+#EXTINF:-1,DE:Sky Sport 4
+http://145.239.0.158:8080/live/mehmet/mehmet123/8741.ts
+#EXTINF:-1,DE:Sky Sport 5
+http://145.239.0.158:8080/live/mehmet/mehmet123/8742.ts
+#EXTINF:-1,DE:Sky Sport 6
+http://145.239.0.158:8080/live/mehmet/mehmet123/8743.ts
+#EXTINF:-1,DE:Sky Sport 7
+http://145.239.0.158:8080/live/mehmet/mehmet123/8744.ts
+#EXTINF:-1,DE:Sky Sport Austria
+http://145.239.0.158:8080/live/mehmet/mehmet123/8745.ts
+#EXTINF:-1,DE:Sky Sport Austria HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8746.ts
+
+#EXTINF:-1,DE: RTL 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15147.ts
+#EXTINF:-1,DE: RTL HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15145.ts
+#EXTINF:-1,DE: RTL_Living_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15144.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15143.ts
+#EXTINF:-1,DE: RTL Passion
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15142.ts
+#EXTINF:-1,DE: Prosieben_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15150.ts
+#EXTINF:-1,DE: ProSieben_MAXX_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15149.ts
+#EXTINF:-1,DE: SkyAction_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15185.ts
+#EXTINF:-1,DE: SkyAtlantic_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15184.ts
+#EXTINF:-1,DE: SkyBundesliga_HD_1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15173.ts
+#EXTINF:-1,DE: SkyCinema_1_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15183.ts
+#EXTINF:-1,DE: SkyCinema_24_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15182.ts
+#EXTINF:-1,DE: SkyComedy
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15181.ts
+#EXTINF:-1,DE: SkyEmotion
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15180.ts
+#EXTINF:-1,DE: SkyHits_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15179.ts
+#EXTINF:-1,DE: SkyKrimi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15178.ts
+#EXTINF:-1,DE: SkyNostalgie
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15177.ts
+#EXTINF:-1,DE: SkySport_News_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15176.ts
+#EXTINF:-1,DE: Spiegel_Geschichte_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15138.ts
+#EXTINF:-1,DE: Super_RTL_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15137.ts
+#EXTINF:-1,DE: VOX_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15128.ts
+#EXTINF:-1,DE: ZDFHD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15129.ts
+#EXTINF:-1,DE: SyFy_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15136.ts
+#EXTINF:-1,DE: Sat_1_Gold_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15141.ts
+#EXTINF:-1,DE: 13th Street HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15170.ts
+#EXTINF:-1,DE: BIZZ
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15169.ts
+#EXTINF:-1,DE: Cartoon_Network
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15167.ts
+#EXTINF:-1,DE: Das_Erste_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15166.ts
+#EXTINF:-1,DE: Discovery_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15165.ts
+#EXTINF:-1,DE: Disney_Channel_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15164.ts
+#EXTINF:-1,DE: Disney_Junior_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15162.ts
+#EXTINF:-1,DE: DMAX_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15161.ts
+#EXTINF:-1,DE: Eurosport 1HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15172.ts
+#EXTINF:-1,DE: Eurosport 2HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15171.ts
+#EXTINF:-1,DE: 4 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15160.ts
+#EXTINF:-1,DE: History_Channel_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15157.ts
+#EXTINF:-1,DE: National Geographic
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15156.ts
+#EXTINF:-1,DE: Kika_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15155.ts
+#EXTINF:-1,DE: Marseburg
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14934.ts
+#EXTINF:-1,DE: NationalGeographic_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15152.ts
+#EXTINF:-1,DE: TLC_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15134.ts
+#EXTINF:-1,DE: TNT_Comedy_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15133.ts
+#EXTINF:-1,DE: TNT_Film_TCM
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15132.ts
+#EXTINF:-1,DE: TNT_Serie_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15131.ts
+#EXTINF:-1,DE: Universal_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15130.ts
+#EXTINF:-1,DE: TVA Aktuelle
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13611.ts
+#EXTINF:-1,DE: WDR HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12245.ts
+#EXTINF:-1,DE: 1_2_3  TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19065.ts
+#EXTINF:-1,DE: Allgau TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19066.ts
+#EXTINF:-1,DE: BADEN TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19067.ts
+#EXTINF:-1,DE: Der Aktionar TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19068.ts
+#EXTINF:-1,DE: Elbekanal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19071.ts
+#EXTINF:-1,DE: EOTV   HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19072.ts
+#EXTINF:-1,DE: Franken Fernsehen  HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19073.ts
+#EXTINF:-1,DE: FOLKS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19075.ts
+#EXTINF:-1,DE: ISAR TV HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19076.ts
+#EXTINF:-1,DE: Jukebox
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/17098.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19077.ts
+#EXTINF:-1,DE: MDF  1  HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19078.ts
+#EXTINF:-1,DE: Munchen TV  HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19079.ts
+#EXTINF:-1,DE: Noa 4 Hamburg
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19081.ts
+#EXTINF:-1,DE: Noa 4 Norderstedt
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19080.ts
+#EXTINF:-1,DE: Oberpfalz TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19082.ts
+#EXTINF:-1,DE: Offener Kanal Magdeburg
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19083.ts
+#EXTINF:-1,DE: OKD TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19084.ts
+#EXTINF:-1,DE: QVC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19093.ts
+#EXTINF:-1,DE: Rheinmain TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19086.ts
+#EXTINF:-1,DE: RFO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19085.ts
+#EXTINF:-1,DE: TV Oberfranken
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19089.ts
+#EXTINF:-1,DE: TV M
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19090.ts
+#EXTINF:-1,DE: TVA Ostbayern
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19088.ts
+#EXTINF:-1,DE: Welt der Wunder
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19092.ts
+#EXTINF:-1,DE: QVC Beauty
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10724.ts
+#EXTINF:-1,DE: Sachsen Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10726.ts
+#EXTINF:-1,DE: Tv Touring
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14268.ts
+#EXTINF:-1,DE: tagesschau24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8872.ts
+#EXTINF:-1,DE: ARD 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8327.ts
+#EXTINF:-1,DE: DW TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8331.ts
+#EXTINF:-1,DE: BOOMERANG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8478.ts
+#EXTINF:-1,DE: BR HD LIVE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10729.ts
+#EXTINF:-1,DE: Das Erste
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10731.ts
+#EXTINF:-1,DE: Deutsches Musik Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10728.ts
+#EXTINF:-1,DE: Dresden Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10721.ts
+#EXTINF:-1,DE: Leipzig Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10722.ts
+#EXTINF:-1,DE: HALLE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14148.ts
+#EXTINF:-1,DE: HR HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14251.ts
+#EXTINF:-1,DE: NDR HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11650.ts
+#EXTINF:-1,DE: OK MAGDEBURG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14150.ts
+#EXTINF:-1,DE: OK SALZWEDEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14548.ts
+#EXTINF:-1,DE: SALZWEDEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14151.ts
+
+#EXTINF:-1,DE:VOX
+http://novaiptv.info:80/live/amar/12345/5054.ts
+#EXTINF:-1,DE:1-2-3.tv
+http://novaiptv.info:80/live/amar/12345/5043.ts
+#EXTINF:-1,DE:13th.Street
+http://novaiptv.info:80/live/amar/12345/5023.ts
+#EXTINF:-1,DE:3sat
+http://novaiptv.info:80/live/amar/12345/5055.ts
+#EXTINF:-1,DE:A&E
+http://novaiptv.info:80/live/amar/12345/4997.ts
+#EXTINF:-1,DE:Anixe
+http://novaiptv.info:80/live/amar/12345/5052.ts
+#EXTINF:-1,DE:AXN
+http://novaiptv.info:80/live/amar/12345/5017.ts
+#EXTINF:-1,DE:Beate-Uhse.TV
+http://novaiptv.info:80/live/amar/12345/5042.ts
+#EXTINF:-1,DE:Boomerang
+http://novaiptv.info:80/live/amar/12345/4987.ts
+#EXTINF:-1,DE:Cartoon.Network
+http://novaiptv.info:80/live/amar/12345/4986.ts
+#EXTINF:-1,DE:Channel21
+http://novaiptv.info:80/live/amar/12345/5021.ts
+#EXTINF:-1,DE:Classica
+http://novaiptv.info:80/live/amar/12345/5003.ts
+#EXTINF:-1,DE:Comedy.Central
+http://novaiptv.info:80/live/amar/12345/5019.ts
+#EXTINF:-1,DE:Das.Erste
+http://novaiptv.info:80/live/amar/12345/5064.ts
+#EXTINF:-1,DE:Deluxe.Music
+http://novaiptv.info:80/live/amar/12345/4995.ts
+#EXTINF:-1,DE:Discovery
+http://novaiptv.info:80/live/amar/12345/5002.ts
+#EXTINF:-1,DE:Disney.Channel
+http://novaiptv.info:80/live/amar/12345/4991.ts
+#EXTINF:-1,DE:Disney.Cinemagic
+http://novaiptv.info:80/live/amar/12345/4990.ts
+#EXTINF:-1,DE:Disney.Junior
+http://novaiptv.info:80/live/amar/12345/4989.ts
+#EXTINF:-1,DE:Disney.XD
+http://novaiptv.info:80/live/amar/12345/4988.ts
+#EXTINF:-1,DE:Dmax
+http://novaiptv.info:80/live/amar/12345/4998.ts
+#EXTINF:-1,DE:E.Entertainm
+http://novaiptv.info:80/live/amar/12345/4996.ts
+#EXTINF:-1,DE:eoTV
+http://novaiptv.info:80/live/amar/12345/5051.ts
+#EXTINF:-1,DE:Euronews.German
+http://novaiptv.info:80/live/amar/12345/5041.ts
+#EXTINF:-1,DE:Eurosport1
+http://novaiptv.info:80/live/amar/12345/4983.ts
+#EXTINF:-1,DE:Eurosport2.Xtra
+http://novaiptv.info:80/live/amar/12345/4982.ts
+#EXTINF:-1,DE:EWTN.katholisches.TV
+http://novaiptv.info:80/live/amar/12345/5039.ts
+#EXTINF:-1,DE:Family.TV
+http://novaiptv.info:80/live/amar/12345/5022.ts
+#EXTINF:-1,DE:Fox
+http://novaiptv.info:80/live/amar/12345/5015.ts
+#EXTINF:-1,DE:History
+http://novaiptv.info:80/live/amar/12345/4999.ts
+#EXTINF:-1,DE:Junior
+http://novaiptv.info:80/live/amar/12345/4994.ts
+#EXTINF:-1,DE:Kabel1
+http://novaiptv.info:80/live/amar/12345/5060.ts
+#EXTINF:-1,DE:KiKA
+http://novaiptv.info:80/live/amar/12345/4992.ts
+#EXTINF:-1,DE:Kinowelt.TV
+http://novaiptv.info:80/live/amar/12345/5050.ts
+#EXTINF:-1,DE:Motorvision.TV
+http://novaiptv.info:80/live/amar/12345/4984.ts
+#EXTINF:-1,DE:MTV
+http://novaiptv.info:80/live/amar/12345/5049.ts
+#EXTINF:-1,DE:N.TV
+http://novaiptv.info:80/live/amar/12345/5048.ts
+#EXTINF:-1,DE:N24.Doku
+http://novaiptv.info:80/live/amar/12345/5047.ts
+#EXTINF:-1,DE:NatGeo
+http://novaiptv.info:80/live/amar/12345/5001.ts
+#EXTINF:-1,DE:NatGeo.Wild
+http://novaiptv.info:80/live/amar/12345/5000.ts
+#EXTINF:-1,DE:Nicklodeon.AT
+http://novaiptv.info:80/live/amar/12345/4985.ts
+#EXTINF:-1,DE:Nitro
+http://novaiptv.info:80/live/amar/12345/5046.ts
+#EXTINF:-1,DE:One
+http://novaiptv.info:80/live/amar/12345/5045.ts
+#EXTINF:-1,DE:ORF1
+http://novaiptv.info:80/live/amar/12345/5037.ts
+#EXTINF:-1,DE:ORF2
+http://novaiptv.info:80/live/amar/12345/5036.ts
+#EXTINF:-1,DE:Pro7
+http://novaiptv.info:80/live/amar/12345/5059.ts
+#EXTINF:-1,DE:Pro7.Maxx
+http://novaiptv.info:80/live/amar/12345/5058.ts
+#EXTINF:-1,DE:Romance.TV
+http://novaiptv.info:80/live/amar/12345/5020.ts
+#EXTINF:-1,DE:RTL
+http://novaiptv.info:80/live/amar/12345/5035.ts
+#EXTINF:-1,DE:RTL.Crime
+http://novaiptv.info:80/live/amar/12345/5031.ts
+#EXTINF:-1,DE:RTL.Living
+http://novaiptv.info:80/live/amar/12345/5032.ts
+#EXTINF:-1,DE:RTL.Nitro
+http://novaiptv.info:80/live/amar/12345/5033.ts
+#EXTINF:-1,DE:RTL.Passion
+http://novaiptv.info:80/live/amar/12345/5030.ts
+#EXTINF:-1,DE:RTL.plus
+http://novaiptv.info:80/live/amar/12345/5029.ts
+#EXTINF:-1,DE:RTL2
+http://novaiptv.info:80/live/amar/12345/5034.ts
+#EXTINF:-1,DE:SAT.1.Gold
+http://novaiptv.info:80/live/amar/12345/5056.ts
+#EXTINF:-1,DE:SAT1
+http://novaiptv.info:80/live/amar/12345/5057.ts
+#EXTINF:-1,DE:Sixx
+http://novaiptv.info:80/live/amar/12345/5053.ts
+#EXTINF:-1,DE:Sky.Bundesliga1
+http://novaiptv.info:80/live/amar/12345/4976.ts
+#EXTINF:-1,DE:Sky.Cinema.Family
+http://novaiptv.info:80/live/amar/12345/5010.ts
+#EXTINF:-1,DE:Sky.Select10
+http://novaiptv.info:80/live/amar/12345/4966.ts
+#EXTINF:-1,DE:Sky.Select4
+http://novaiptv.info:80/live/amar/12345/4972.ts
+#EXTINF:-1,DE:Sky.Select5
+http://novaiptv.info:80/live/amar/12345/4971.ts
+#EXTINF:-1,DE:Sky.Select8
+http://novaiptv.info:80/live/amar/12345/4968.ts
+#EXTINF:-1,DE:SKY.Sport.News
+http://novaiptv.info:80/live/amar/12345/4980.ts
+#EXTINF:-1,DE:SkyAction
+http://novaiptv.info:80/live/amar/12345/5011.ts
+#EXTINF:-1,DE:SKYAtlantic
+http://novaiptv.info:80/live/amar/12345/5006.ts
+#EXTINF:-1,DE:SKYCinema
+http://novaiptv.info:80/live/amar/12345/5014.ts
+#EXTINF:-1,DE:SkyCinema.1
+http://novaiptv.info:80/live/amar/12345/5013.ts
+#EXTINF:-1,DE:SKYCinema24
+http://novaiptv.info:80/live/amar/12345/5012.ts
+#EXTINF:-1,DE:SkyComedy
+http://novaiptv.info:80/live/amar/12345/5005.ts
+#EXTINF:-1,DE:SKYEmotion
+http://novaiptv.info:80/live/amar/12345/5004.ts
+#EXTINF:-1,DE:SKYHits
+http://novaiptv.info:80/live/amar/12345/5009.ts
+#EXTINF:-1,DE:SKYKrimi
+http://novaiptv.info:80/live/amar/12345/5008.ts
+#EXTINF:-1,DE:SKYNostalgie
+http://novaiptv.info:80/live/amar/12345/5007.ts
+#EXTINF:-1,DE:SkySelect1
+http://novaiptv.info:80/live/amar/12345/4975.ts
+#EXTINF:-1,DE:SkySelect2
+http://novaiptv.info:80/live/amar/12345/4974.ts
+#EXTINF:-1,DE:SkySelect3
+http://novaiptv.info:80/live/amar/12345/4973.ts
+#EXTINF:-1,DE:SkySelect6
+http://novaiptv.info:80/live/amar/12345/4970.ts
+#EXTINF:-1,DE:SkySelect7
+http://novaiptv.info:80/live/amar/12345/4969.ts
+#EXTINF:-1,DE:SkySelect9
+http://novaiptv.info:80/live/amar/12345/4967.ts
+#EXTINF:-1,DE:SkySport.Bundesliga10 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4947.ts
+#EXTINF:-1,DE:SkySport.Bundesliga2 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4955.ts
+#EXTINF:-1,DE:SkySport.Bundesliga3 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4954.ts
+#EXTINF:-1,DE:SkySport.Bundesliga4 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4953.ts
+#EXTINF:-1,DE:SkySport.Bundesliga5 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4952.ts
+#EXTINF:-1,DE:SkySport.Bundesliga6 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4951.ts
+#EXTINF:-1,DE:SkySport.Bundesliga7 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4950.ts
+#EXTINF:-1,DE:SkySport.Bundesliga8 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4949.ts
+#EXTINF:-1,DE:SkySport.Bundesliga9 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4948.ts
+#EXTINF:-1,DE:SkySport1
+http://novaiptv.info:80/live/amar/12345/4978.ts
+#EXTINF:-1,DE:SkySport10 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4957.ts
+#EXTINF:-1,DE:SkySport11 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4956.ts
+#EXTINF:-1,DE:SkySport2
+http://novaiptv.info:80/live/amar/12345/4977.ts
+#EXTINF:-1,DE:SkySport3 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4965.ts
+#EXTINF:-1,DE:SkySport4 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4964.ts
+#EXTINF:-1,DE:SkySport5
+http://novaiptv.info:80/live/amar/12345/4963.ts
+#EXTINF:-1,DE:SkySport5 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4962.ts
+#EXTINF:-1,DE:SkySport6 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4961.ts
+#EXTINF:-1,DE:SkySport7 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4960.ts
+#EXTINF:-1,DE:SkySport8 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4959.ts
+#EXTINF:-1,DE:SkySport9 ( Match time )
+http://novaiptv.info:80/live/amar/12345/4958.ts
+#EXTINF:-1,DE:SkySportAustria
+http://novaiptv.info:80/live/amar/12345/4979.ts
+#EXTINF:-1,DE:Spiegel.Geschichte
+http://novaiptv.info:80/live/amar/12345/5040.ts
+#EXTINF:-1,DE:Sport1
+http://novaiptv.info:80/live/amar/12345/4981.ts
+#EXTINF:-1,DE:Super.RTL
+http://novaiptv.info:80/live/amar/12345/5028.ts
+#EXTINF:-1,DE:SyFy
+http://novaiptv.info:80/live/amar/12345/5016.ts
+#EXTINF:-1,DE:Tagesschau24
+http://novaiptv.info:80/live/amar/12345/5038.ts
+#EXTINF:-1,DE:TLC
+http://novaiptv.info:80/live/amar/12345/5018.ts
+#EXTINF:-1,DE:TNT.Comedy
+http://novaiptv.info:80/live/amar/12345/5025.ts
+#EXTINF:-1,DE:TNT.Filme
+http://novaiptv.info:80/live/amar/12345/5026.ts
+#EXTINF:-1,DE:TNT.Series
+http://novaiptv.info:80/live/amar/12345/5027.ts
+#EXTINF:-1,DE:TOGGO.plus
+http://novaiptv.info:80/live/amar/12345/4993.ts
+#EXTINF:-1,DE:Universal
+http://novaiptv.info:80/live/amar/12345/5024.ts
+#EXTINF:-1,DE:ZDF
+http://novaiptv.info:80/live/amar/12345/5063.ts
+#EXTINF:-1,DE:ZDF.Info
+http://novaiptv.info:80/live/amar/12345/5062.ts
+#EXTINF:-1,DE:ZDF.NEO
+http://novaiptv.info:80/live/amar/12345/5061.ts
+
+#EXTINF:-1,De- 13th Street HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12372.ts
+#EXTINF:-1,De- 3Sat HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12203.ts
+#EXTINF:-1,De- A&E
+http://m-iptv.net:6204/live/zanyar/zanyar/12272.ts
+#EXTINF:-1,De- Animal Planet HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12286.ts
+#EXTINF:-1,De- Anixe Serie FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12191.ts
+#EXTINF:-1,De- Arte FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12202.ts
+#EXTINF:-1,De- Arte HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12201.ts
+#EXTINF:-1,De- ATV HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12200.ts
+#EXTINF:-1,De- Auto Motor Sport HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12356.ts
+#EXTINF:-1,De- AXN HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12374.ts
+#EXTINF:-1,De- Baby TV
+http://m-iptv.net:6204/live/zanyar/zanyar/12264.ts
+#EXTINF:-1,De- Boomerang
+http://m-iptv.net:6204/live/zanyar/zanyar/12266.ts
+#EXTINF:-1,De- Cartoon Network HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12267.ts
+#EXTINF:-1,De- Classica SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12255.ts
+#EXTINF:-1,De- Das Erste
+http://m-iptv.net:6204/live/zanyar/zanyar/12211.ts
+#EXTINF:-1,De- Das Erste FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12213.ts
+#EXTINF:-1,De- Das Erste HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12212.ts
+#EXTINF:-1,De- DAZN  1 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12339.ts
+#EXTINF:-1,De- DAZN  2 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12338.ts
+#EXTINF:-1,De- Deluxe Music
+http://m-iptv.net:6204/live/zanyar/zanyar/12256.ts
+#EXTINF:-1,De- Deutsches Musik Fernsehen
+http://m-iptv.net:6204/live/zanyar/zanyar/12254.ts
+#EXTINF:-1,De- Discovery Channel HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12284.ts
+#EXTINF:-1,De- Disney Channel HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12271.ts
+#EXTINF:-1,De- Disney CineMagic SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12270.ts
+#EXTINF:-1,De- Disney Junior HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12269.ts
+#EXTINF:-1,De- Disney XD SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12268.ts
+#EXTINF:-1,De- Dmax HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12361.ts
+#EXTINF:-1,De- E! HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12366.ts
+#EXTINF:-1,De- EuroNews
+http://m-iptv.net:6204/live/zanyar/zanyar/12244.ts
+#EXTINF:-1,De- EuroSport 1 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12350.ts
+#EXTINF:-1,De- EuroSport 1 HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12349.ts
+#EXTINF:-1,De- EuroSport 2 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12348.ts
+#EXTINF:-1,De- EuroSport 2 HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12347.ts
+#EXTINF:-1,De- EuroSport 2 Xtra FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12346.ts
+#EXTINF:-1,De- EuroSport 2 Xtra HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12345.ts
+#EXTINF:-1,De- EuroSport360 1 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12344.ts
+#EXTINF:-1,De- Eurosport360 2 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12343.ts
+#EXTINF:-1,De- EuroSport360 3 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12342.ts
+#EXTINF:-1,De- EuroSport360 4 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12341.ts
+#EXTINF:-1,De- Eurosport360 5 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12340.ts
+#EXTINF:-1,De- Fashion TV
+http://m-iptv.net:6204/live/zanyar/zanyar/12279.ts
+#EXTINF:-1,De- Fix & Foxi
+http://m-iptv.net:6204/live/zanyar/zanyar/12265.ts
+#EXTINF:-1,De- Fox HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12376.ts
+#EXTINF:-1,De- Genius Plus
+http://m-iptv.net:6204/live/zanyar/zanyar/12190.ts
+#EXTINF:-1,De- History FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12283.ts
+#EXTINF:-1,De- HSE24 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12189.ts
+#EXTINF:-1,De- Junior HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12263.ts
+#EXTINF:-1,De- Juwelo FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12188.ts
+#EXTINF:-1,De- Kabel eins Classic HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12214.ts
+#EXTINF:-1,De- Kabel eins Doku
+http://m-iptv.net:6204/live/zanyar/zanyar/12281.ts
+#EXTINF:-1,De- Kabel eins HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12215.ts
+#EXTINF:-1,De- Kika HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12262.ts
+#EXTINF:-1,De- Kinowelt HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12368.ts
+#EXTINF:-1,De- Motorvision HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12355.ts
+#EXTINF:-1,De- MTV Brand New
+http://m-iptv.net:6204/live/zanyar/zanyar/12252.ts
+#EXTINF:-1,De- MTV Classic
+http://m-iptv.net:6204/live/zanyar/zanyar/12251.ts
+#EXTINF:-1,De- MTV Dance
+http://m-iptv.net:6204/live/zanyar/zanyar/12250.ts
+#EXTINF:-1,De- MTV Europe
+http://m-iptv.net:6204/live/zanyar/zanyar/12249.ts
+#EXTINF:-1,De- MTV HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12253.ts
+#EXTINF:-1,De- MTV Hits
+http://m-iptv.net:6204/live/zanyar/zanyar/12248.ts
+#EXTINF:-1,De- MTV Live HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12247.ts
+#EXTINF:-1,De- MTV Rocks
+http://m-iptv.net:6204/live/zanyar/zanyar/12246.ts
+#EXTINF:-1,De- N-TV HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12245.ts
+#EXTINF:-1,De- N24 Doku
+http://m-iptv.net:6204/live/zanyar/zanyar/12282.ts
+#EXTINF:-1,De- Nat Geo HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12288.ts
+#EXTINF:-1,De- Nat Geo Wild HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12287.ts
+#EXTINF:-1,De- NDR HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12199.ts
+#EXTINF:-1,De- Nickelodeon HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12261.ts
+#EXTINF:-1,De- One HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12198.ts
+#EXTINF:-1,De- ORF 1 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12196.ts
+#EXTINF:-1,De- ORF 2 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12195.ts
+#EXTINF:-1,De- ORF Eins FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12197.ts
+#EXTINF:-1,De- ORF Sport  HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12194.ts
+#EXTINF:-1,De- Phoenix
+http://m-iptv.net:6204/live/zanyar/zanyar/12273.ts
+#EXTINF:-1,De- Planet HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12285.ts
+#EXTINF:-1,De- Pro 7 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12228.ts
+#EXTINF:-1,De- Pro 7 Maxx HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12225.ts
+#EXTINF:-1,De- Pro7
+http://m-iptv.net:6204/live/zanyar/zanyar/12227.ts
+#EXTINF:-1,De- Pro7 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12229.ts
+#EXTINF:-1,De- Pro7 Fun  FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12230.ts
+#EXTINF:-1,De- Pro7 Maxx FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12226.ts
+#EXTINF:-1,De- Pro7 Maxx SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12224.ts
+#EXTINF:-1,De- Romance TV
+http://m-iptv.net:6204/live/zanyar/zanyar/12193.ts
+#EXTINF:-1,De- RTL Crime SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12365.ts
+#EXTINF:-1,De- RTL FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12243.ts
+#EXTINF:-1,De- RTL HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12242.ts
+#EXTINF:-1,De- RTL II
+http://m-iptv.net:6204/live/zanyar/zanyar/12238.ts
+#EXTINF:-1,De- RTL II FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12240.ts
+#EXTINF:-1,De- RTL II HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12239.ts
+#EXTINF:-1,De- RTL Living HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12362.ts
+#EXTINF:-1,De- RTL Nitro HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12217.ts
+#EXTINF:-1,De- RTL Passion HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12364.ts
+#EXTINF:-1,De- RTL Passion SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12363.ts
+#EXTINF:-1,De- RTL Plus SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12237.ts
+#EXTINF:-1,De- RTL SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12241.ts
+#EXTINF:-1,De- Sat.1
+http://m-iptv.net:6204/live/zanyar/zanyar/12231.ts
+#EXTINF:-1,De- Sat.1 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12233.ts
+#EXTINF:-1,De- Sat.1 Gold FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12220.ts
+#EXTINF:-1,De- Sat.1 Gold SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12218.ts
+#EXTINF:-1,De- Sat.1 HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12232.ts
+#EXTINF:-1,De- Sat1 Emotions
+http://m-iptv.net:6204/live/zanyar/zanyar/12216.ts
+#EXTINF:-1,De- Sat1 Gold HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12219.ts
+#EXTINF:-1,De- Sixx FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12223.ts
+#EXTINF:-1,De- SIXX HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12222.ts
+#EXTINF:-1,De- Sixx SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12221.ts
+#EXTINF:-1,De- Sky 1 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12379.ts
+#EXTINF:-1,De- Sky Arts HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12276.ts
+#EXTINF:-1,De- Sky Atlantic
+http://m-iptv.net:6204/live/zanyar/zanyar/12378.ts
+#EXTINF:-1,De- Sky Cinema  1 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12397.ts
+#EXTINF:-1,De- Sky Cinema  24 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12396.ts
+#EXTINF:-1,De- Sky Cinema Action HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12395.ts
+#EXTINF:-1,De- Sky Cinema Comedy SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12392.ts
+#EXTINF:-1,De- Sky Cinema Emotion SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12391.ts
+#EXTINF:-1,De- Sky Cinema Family HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12394.ts
+#EXTINF:-1,De- Sky Cinema HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12398.ts
+#EXTINF:-1,De- Sky Cinema Hits HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12393.ts
+#EXTINF:-1,De- Sky Cinema Nostalgie SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12390.ts
+#EXTINF:-1,De- Sky Krimi SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12377.ts
+#EXTINF:-1,De- Sky Select 1 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12387.ts
+#EXTINF:-1,De- Sky Select 2 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12386.ts
+#EXTINF:-1,De- Sky Select 3 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12385.ts
+#EXTINF:-1,De- Sky Select 4 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12384.ts
+#EXTINF:-1,De- Sky Select 5 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12383.ts
+#EXTINF:-1,De- Sky Select 6 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12382.ts
+#EXTINF:-1,De- Sky Select 7 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12381.ts
+#EXTINF:-1,De- Sky Select 8 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12380.ts
+#EXTINF:-1,De- Sky Sport  Austria FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12354.ts
+#EXTINF:-1,De- Sky Sport 1
+http://m-iptv.net:6204/live/zanyar/zanyar/12335.ts
+#EXTINF:-1,De- Sky Sport 1 FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12337.ts
+#EXTINF:-1,De- Sky Sport 1 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12336.ts
+#EXTINF:-1,De- Sky Sport News FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12352.ts
+#EXTINF:-1,De- Sky Sport News HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12351.ts
+#EXTINF:-1,De- Sony Enterainment HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12367.ts
+#EXTINF:-1,De- Spiegel Tv Geschichte HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12275.ts
+#EXTINF:-1,De- Spiegel TV Wissen HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12274.ts
+#EXTINF:-1,De- Sport 1 HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12360.ts
+#EXTINF:-1,De- Sport1  HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12359.ts
+#EXTINF:-1,De- Sport1 US FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12358.ts
+#EXTINF:-1,De- Sportdigital HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12357.ts
+#EXTINF:-1,De- Super RTL FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12259.ts
+#EXTINF:-1,De- Super RTL HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12258.ts
+#EXTINF:-1,De- Super RTL SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12257.ts
+#EXTINF:-1,De- SyFy SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12375.ts
+#EXTINF:-1,De- Tele 5 HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12192.ts
+#EXTINF:-1,De- TLC HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12278.ts
+#EXTINF:-1,De- TNT Comedy HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12369.ts
+#EXTINF:-1,De- TNT Film HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12371.ts
+#EXTINF:-1,De- TNT Serie HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12370.ts
+#EXTINF:-1,De- Toggo Plus
+http://m-iptv.net:6204/live/zanyar/zanyar/12260.ts
+#EXTINF:-1,De- Travel Channel FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12280.ts
+#EXTINF:-1,De- Universal Channel HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12373.ts
+#EXTINF:-1,De- VOX  HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12235.ts
+#EXTINF:-1,De- VOX FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12236.ts
+#EXTINF:-1,De- VOX SD
+http://m-iptv.net:6204/live/zanyar/zanyar/12234.ts
+#EXTINF:-1,De- ZDF
+http://m-iptv.net:6204/live/zanyar/zanyar/12208.ts
+#EXTINF:-1,De- ZDF FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12210.ts
+#EXTINF:-1,De- ZDF HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12209.ts
+#EXTINF:-1,De- ZDF Info HD
+http://m-iptv.net:6204/live/zanyar/zanyar/12207.ts
+#EXTINF:-1,De- ZDF Neo
+http://m-iptv.net:6204/live/zanyar/zanyar/12204.ts
+#EXTINF:-1,De- ZDF Neo FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12206.ts
+#EXTINF:-1,De- ZDF Neo HD.
+http://m-iptv.net:6204/live/zanyar/zanyar/12205.ts
+#EXTINF:-1,De- Zee One
+http://m-iptv.net:6204/live/zanyar/zanyar/12388.ts
+#EXTINF:-1,De- Zee One FHD
+http://m-iptv.net:6204/live/zanyar/zanyar/12389.ts
